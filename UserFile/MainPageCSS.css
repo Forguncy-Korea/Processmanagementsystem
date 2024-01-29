@@ -1,0 +1,101 @@
+﻿@font-face {
+    font-family: "나눔스퀘어 네오 OTF Light";
+    src: url("NanumSquareNeoOTF-aLt.otf");
+}
+@font-face {
+    font-family: "나눔스퀘어 네오 OTF Regular";
+    src: url("NanumSquareNeoOTF-bRg.otf");
+}
+@font-face {
+    font-family: "나눔스퀘어 네오 OTF ExtraBold";
+    src: url("NanumSquareNeoOTF-dEb.otf");
+}
+@font-face {
+    font-family: "나눔스퀘어 네오 OTF Bold";
+    src: url("NanumSquareNeoOTF-cBd.otf");
+}
+@font-face {
+    font-family: "나눔스퀘어 네오 OTF Heavy";
+    src: url("NanumSquareNeoOTF-eHv.otf");
+}
+
+.Department1_up{
+    background-color:#6d7be2 !important;
+    -webkit-border-radius:10px 10px 0 0;
+    -moz-border-radius:10px 10px 0 0;
+    -ms-border-radius:10px 10px 0 0; 
+    -o-border-radius:10px 10px 0 0;
+   }
+   
+.Department1_down{
+    background-color:#6d7be2 !important;
+   -webkit-border-radius:0 0 10px 10px ;
+   -moz-border-radius:0 0 10px 10px ;
+   -ms-border-radius:0 0 10px 10px ;
+   -o-border-radius:0 0 10px 10px ;
+}
+
+
+.Department2_up{
+    background-color:#45b5e5 !important;
+    -webkit-border-radius:10px 10px 0 0;
+    -moz-border-radius:10px 10px 0 0;
+    -ms-border-radius:10px 10px 0 0; 
+    -o-border-radius:10px 10px 0 0;
+   }
+   
+.Department2_down{
+    background-color:#45b5e5 !important;
+   -webkit-border-radius:0 0 10px 10px ;
+   -moz-border-radius:0 0 10px 10px ;
+   -ms-border-radius:0 0 10px 10px ;
+   -o-border-radius:0 0 10px 10px ;
+}
+
+.Department3_up{
+    background-color:#f47184 !important;
+    -webkit-border-radius:10px 10px 0 0;
+    -moz-border-radius:10px 10px 0 0;
+    -ms-border-radius:10px 10px 0 0; 
+    -o-border-radius:10px 10px 0 0;
+   }
+   
+.Department3_down{
+    background-color:#f47184 !important;
+   -webkit-border-radius:0 0 10px 10px ;
+   -moz-border-radius:0 0 10px 10px ;
+   -ms-border-radius:0 0 10px 10px ;
+   -o-border-radius:0 0 10px 10px ;
+}
+
+.Department4_up{
+    background-color:#ffbc54 !important;
+    -webkit-border-radius:10px 10px 0 0;
+    -moz-border-radius:10px 10px 0 0;
+    -ms-border-radius:10px 10px 0 0; 
+    -o-border-radius:10px 10px 0 0;
+   }
+   
+.Department4_down{
+    background-color:#ffbc54 !important;
+   -webkit-border-radius:0 0 10px 10px ;
+   -moz-border-radius:0 0 10px 10px ;
+   -ms-border-radius:0 0 10px 10px ;
+   -o-border-radius:0 0 10px 10px ;
+}
+
+.dashboardsection_up{            
+    background-color:#ffffff !important;
+    -webkit-border-radius:10px 10px 0 0;
+    -moz-border-radius:10px 10px 0 0;
+    -ms-border-radius:10px 10px 0 0; 
+    -o-border-radius:10px 10px 0 0;
+   }
+   
+.dashboardsection_down{    
+    background-color:#ffffff  !important;
+   -webkit-border-radius:0 0 10px 10px ;
+   -moz-border-radius:0 0 10px 10px ;
+   -ms-border-radius:0 0 10px 10px ;
+   -o-border-radius:0 0 10px 10px ;
+}

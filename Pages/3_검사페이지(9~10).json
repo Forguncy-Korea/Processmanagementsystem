@@ -1,0 +1,2930 @@
+{
+  "Rows": {
+    "RowColumnAttachedInfos": {
+      "0": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 18.0,
+          "IsHidden": true
+        }
+      },
+      "1": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 16.0,
+          "IsHidden": true
+        }
+      },
+      "2": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 15.0
+        }
+      },
+      "3": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 15.0
+        }
+      },
+      "4": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 29.0
+        }
+      },
+      "5": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 29.0
+        }
+      },
+      "6": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 29.0
+        }
+      },
+      "7": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 13.0
+        }
+      },
+      "8": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 10.0
+        }
+      },
+      "9": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 10.0
+        }
+      },
+      "10": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 35.0
+        }
+      },
+      "11": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "12": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 18.0
+        }
+      },
+      "13": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "14": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 18.0
+        }
+      },
+      "15": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 34.0
+        }
+      },
+      "16": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 35.0
+        }
+      },
+      "17": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 35.0
+        }
+      },
+      "18": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 35.0
+        }
+      },
+      "19": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 35.0
+        }
+      },
+      "20": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 35.0
+        }
+      },
+      "21": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 35.0
+        }
+      },
+      "22": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 35.0
+        }
+      },
+      "23": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 35.0
+        }
+      },
+      "24": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 35.0
+        }
+      },
+      "25": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 35.0
+        }
+      },
+      "26": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 35.0
+        }
+      },
+      "27": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 58.0
+        }
+      },
+      "28": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 35.0
+        }
+      },
+      "29": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 58.0
+        }
+      },
+      "30": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 18.0
+        }
+      },
+      "31": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 18.0
+        }
+      },
+      "32": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "33": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 18.0
+        }
+      },
+      "34": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 34.0
+        }
+      },
+      "35": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 35.0
+        }
+      },
+      "36": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 18.0
+        }
+      },
+      "37": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 18.0
+        }
+      },
+      "38": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 18.0
+        }
+      },
+      "39": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 38.0
+        }
+      },
+      "40": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 38.0
+        }
+      },
+      "41": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 34.0,
+          "IsHidden": true
+        }
+      },
+      "42": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 18.0,
+          "IsHidden": true
+        }
+      },
+      "43": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 18.0,
+          "IsHidden": true
+        }
+      },
+      "44": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 18.0,
+          "IsHidden": true
+        }
+      },
+      "45": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 18.0,
+          "IsHidden": true
+        }
+      }
+    },
+    "InLogicalVisibleIndexes": [
+      0,
+      1,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "Count": 46,
+    "DefaultSize": 35.0
+  },
+  "Cols": {
+    "RowColumnAttachedInfos": {
+      "0": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 31.0,
+          "IsHidden": true
+        }
+      },
+      "1": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 31.0
+        }
+      },
+      "2": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 5.0
+        }
+      },
+      "3": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 139.0
+        }
+      },
+      "4": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 79.0
+        }
+      },
+      "5": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 79.0
+        }
+      },
+      "6": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 79.0
+        }
+      },
+      "7": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 79.0
+        }
+      },
+      "8": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 12.0
+        }
+      },
+      "9": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 41.0
+        }
+      },
+      "10": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 41.0
+        }
+      },
+      "11": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 41.0
+        }
+      },
+      "12": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 79.0
+        }
+      },
+      "13": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 79.0
+        }
+      },
+      "14": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 79.0
+        }
+      },
+      "15": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 79.0
+        }
+      },
+      "16": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 41.0
+        }
+      },
+      "17": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 41.0
+        }
+      },
+      "18": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 41.0
+        }
+      },
+      "19": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 7.0
+        }
+      },
+      "20": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 13.0
+        }
+      },
+      "21": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 24.0
+        }
+      },
+      "22": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 23.0
+        }
+      }
+    },
+    "InLogicalVisibleIndexes": [
+      0
+    ],
+    "Count": 23,
+    "DefaultSize": 79.0
+  },
+  "Values": {
+    "1,0": 1,
+    "2,3": "프로젝트",
+    "4,3": "제품코드",
+    "4,9": "작업날짜",
+    "5,3": "Lot #",
+    "5,9": "개발용도",
+    "6,3": "프로세스 ",
+    "6,9": "담당자",
+    "10,3": "상기 표시된 공정은 반드시 각 작업자들이 작업 결과를 체크하여 측정자가 서명해야 합니다.",
+    "10,17": "저장",
+    "13,3": "9. 제품 검사",
+    "15,3": "항목",
+    "15,6": "검사기준",
+    "15,12": "측정결과",
+    "15,14": "측정자",
+    "15,16": "월일",
+    "16,3": "겉모양",
+    "16,4": "가는금",
+    "16,6": "가는금이 없어야 함",
+    "16,12": "%Null%",
+    "16,14": "%Null%",
+    "17,4": "모서리결함",
+    "17,6": "결함의 나비 또는 길이가 판유리의 두께 이상 없을 것",
+    "17,12": "%Null%",
+    "18,4": "긁힌흠",
+    "18,6": "사용상 지장이 없을 것",
+    "18,12": "%Null%",
+    "19,3": "치수\r\n(mm)",
+    "19,4": "두께",
+    "19,6": "ACS-D-101 강화유리 제품규격에 따름",
+    "19,14": "%Null%",
+    "20,4": "가로",
+    "21,4": "세로",
+    "22,3": "만곡도",
+    "22,4": "황모양",
+    "22,6": "0.5% 이하",
+    "22,14": "%Null%",
+    "23,4": "파형",
+    "23,6": "0.3% 이하",
+    "24,3": "포장상태",
+    "24,4": "형상",
+    "24,6": "이상없을 것",
+    "24,12": "%Null%",
+    "24,14": "%Null%",
+    "25,4": "치수\r\n(mm)",
+    "25,5": "길이",
+    "25,6": "절단중간검사 규격에 따름",
+    "26,5": "나비",
+    "27,3": "내충격성",
+    "27,6": "시료6매 시험후 파괴가1매 이하 합격, 3매 이상 불합격, 또한, 파괴2매 일 때 6매재시험 후 6매 모두 파괴되지 않을 것",
+    "27,14": "%Null%",
+    "28,3": "파쇄\r\n(5cm이상)",
+    "28,6": "파편수 30개 이상",
+    "28,12": "%Null%",
+    "28,14": "%Null%",
+    "29,3": "쇼트백",
+    "29,6": "시료4매 모두 파괴후 각 시료의 가장 큰10개의 무게 합계가 65㎠이하 일 것. 또는 낙하 높이 120㎝에서 유리가 파괴되지 않을 것",
+    "29,12": "%Null%",
+    "29,14": "%Null%",
+    "32,3": "10. 포장 제품 입고",
+    "34,3": "항목",
+    "34,6": "검사기준",
+    "34,12": "측정결과",
+    "34,14": "측정자",
+    "34,16": "월일",
+    "35,3": "포장상태",
+    "35,6": "이상없을 것",
+    "35,12": "%Null%",
+    "35,14": "%Null%",
+    "39,7": "저장",
+    "39,10": "PDF",
+    "41,3": "*프로젝트리스트뷰",
+    "41,4": "*제품검사리스트뷰",
+    "41,6": "*포장제품입고리스트뷰"
+  },
+  "Formulas": {
+    "0,0": "ODATA(\"페이지?$select=_3페이지&$filter=ID eq 1\")"
+  },
+  "AttachInfos": {
+    "0,0": {
+      "BindingInfo": {
+        "TableName": "프로젝트",
+        "ColumnName": "ID",
+        "GUID": "6849205d-28ce-4c08-8a37-e1ad1d8a6ff6"
+      }
+    },
+    "4,4": {
+      "BindingInfo": {
+        "TableName": "프로젝트",
+        "ColumnName": "제품코드",
+        "GUID": "c6528c1e-2ac0-4028-85db-5e3abed3f1e0"
+      },
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "TemplateKey": "_RS_NewLittleRoundCorner",
+        "ReadOnly": true
+      }
+    },
+    "4,13": {
+      "BindingInfo": {
+        "TableName": "프로젝트",
+        "ColumnName": "작업날짜",
+        "GUID": "fdb6786b-06b5-4c0c-b88c-45ce7f75015f"
+      },
+      "CellType": {
+        "$type": "Forguncy.DateCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner",
+        "ReadOnly": true
+      }
+    },
+    "5,4": {
+      "BindingInfo": {
+        "TableName": "프로젝트",
+        "ColumnName": "Lot_",
+        "GUID": "6ac071a0-9ea9-485a-aad3-b2c35e860c50"
+      },
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "TemplateKey": "_RS_NewLittleRoundCorner",
+        "ReadOnly": true
+      }
+    },
+    "5,13": {
+      "BindingInfo": {
+        "TableName": "프로젝트",
+        "ColumnName": "개발용도",
+        "GUID": "a7aa22b9-57c0-480e-bbd9-c39571ce62dd"
+      },
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "TemplateKey": "_RS_NewLittleRoundCorner",
+        "ReadOnly": true
+      }
+    },
+    "6,4": {
+      "BindingInfo": {
+        "TableName": "프로젝트",
+        "ColumnName": "프로세스",
+        "GUID": "573cdd9a-aed5-4287-9e96-2f2a6c74634c"
+      },
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "TemplateKey": "_RS_NewLittleRoundCorner",
+        "ReadOnly": true
+      }
+    },
+    "6,13": {
+      "BindingInfo": {
+        "TableName": "프로젝트",
+        "ColumnName": "담당자",
+        "GUID": "28bbb6e9-f47b-443a-bafd-8725f419c438"
+      },
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "TemplateKey": "_RS_NewLittleRoundCorner",
+        "ReadOnly": true
+      }
+    },
+    "10,17": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.UpdateDataTableCommand, ServerDesignerCommon",
+            "TableName": "제품검사",
+            "ShowConfirm": false
+          },
+          {
+            "$type": "Forguncy.Model.UpdateDataTableCommand, ServerDesignerCommon",
+            "TableName": "포장제품입고",
+            "ShowConfirm": false
+          },
+          {
+            "$type": "Forguncy.Model.ShowMessageCommand, ServerDesignerCommon",
+            "MessageFormula": "정상적으로 저장되었습니다."
+          }
+        ],
+        "Text": "저장",
+        "TemplateKey": "_RS_Main1"
+      }
+    },
+    "16,12": {
+      "BindingInfo": {
+        "TableName": "제품검사",
+        "ColumnName": "가는금측절경과",
+        "GUID": "70600b95-5177-4a6d-adee-8805bf630db0"
+      },
+      "CellType": {
+        "$type": "Forguncy.RadioGroupCellType, ServerDesignerCommon",
+        "Style": 1,
+        "CellDefaultValue": "%Null%",
+        "Items": [
+          {
+            "Value": "양",
+            "DisplayValue": "양"
+          },
+          {
+            "Value": "불",
+            "DisplayValue": "불"
+          }
+        ]
+      }
+    },
+    "16,14": {
+      "BindingInfo": {
+        "TableName": "제품검사",
+        "ColumnName": "겉모양측정자",
+        "GUID": "876bfb74-fade-45e0-b04c-2b917019571f"
+      },
+      "CellType": {
+        "$type": "Forguncy.DropDownListCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner",
+        "Items": [
+          {
+            "Value": "1",
+            "DisplayValue": "김지원"
+          },
+          {
+            "Value": "2",
+            "DisplayValue": "이수아"
+          },
+          {
+            "Value": "3",
+            "DisplayValue": "황덕현"
+          }
+        ],
+        "CellDefaultValue": "%Null%"
+      }
+    },
+    "16,16": {
+      "BindingInfo": {
+        "TableName": "제품검사",
+        "ColumnName": "겉모양측정일",
+        "GUID": "f34d2a7b-141b-4fb9-ae20-2a8627e05748"
+      },
+      "CellType": {
+        "$type": "Forguncy.DateCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner"
+      }
+    },
+    "17,12": {
+      "BindingInfo": {
+        "TableName": "제품검사",
+        "ColumnName": "모서리결함측정결과",
+        "GUID": "8dae8ffa-17da-4612-800b-c8affb19abbb"
+      },
+      "CellType": {
+        "$type": "Forguncy.RadioGroupCellType, ServerDesignerCommon",
+        "Style": 1,
+        "CellDefaultValue": "%Null%",
+        "Items": [
+          {
+            "Value": "양",
+            "DisplayValue": "양"
+          },
+          {
+            "Value": "불",
+            "DisplayValue": "불"
+          }
+        ]
+      }
+    },
+    "18,12": {
+      "BindingInfo": {
+        "TableName": "제품검사",
+        "ColumnName": "긁힌흠측정결과",
+        "GUID": "57c27f1c-26cb-4b1e-9f8e-c6b4499ca2d2"
+      },
+      "CellType": {
+        "$type": "Forguncy.RadioGroupCellType, ServerDesignerCommon",
+        "Style": 1,
+        "CellDefaultValue": "%Null%",
+        "Items": [
+          {
+            "Value": "양",
+            "DisplayValue": "양"
+          },
+          {
+            "Value": "불",
+            "DisplayValue": "불"
+          }
+        ]
+      }
+    },
+    "19,12": {
+      "BindingInfo": {
+        "TableName": "제품검사",
+        "ColumnName": "두께측정결과",
+        "GUID": "4387b1a3-6daf-4ebd-be74-999180fa1e78"
+      },
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "TemplateKey": "_RS_NewLittleRoundCorner"
+      }
+    },
+    "19,14": {
+      "BindingInfo": {
+        "TableName": "제품검사",
+        "ColumnName": "치수측정자",
+        "GUID": "1b67c55d-d33f-46f9-9c9c-77214a360ab8"
+      },
+      "CellType": {
+        "$type": "Forguncy.DropDownListCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner",
+        "Items": [
+          {
+            "Value": "1",
+            "DisplayValue": "김지원"
+          },
+          {
+            "Value": "2",
+            "DisplayValue": "이수아"
+          },
+          {
+            "Value": "3",
+            "DisplayValue": "황덕현"
+          }
+        ],
+        "CellDefaultValue": "%Null%"
+      }
+    },
+    "19,16": {
+      "BindingInfo": {
+        "TableName": "제품검사",
+        "ColumnName": "치수측정일",
+        "GUID": "ac368505-e7ee-47bd-aa23-465178c08234"
+      },
+      "CellType": {
+        "$type": "Forguncy.DateCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner"
+      }
+    },
+    "20,12": {
+      "BindingInfo": {
+        "TableName": "제품검사",
+        "ColumnName": "가로측정결과",
+        "GUID": "74ebd6dd-9dcd-41be-b58e-f775a3727ab0"
+      },
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "TemplateKey": "_RS_NewLittleRoundCorner"
+      }
+    },
+    "21,12": {
+      "BindingInfo": {
+        "TableName": "제품검사",
+        "ColumnName": "세로측정결과",
+        "GUID": "aded57d4-d65e-4067-8cf8-ca61708f17e5"
+      },
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "TemplateKey": "_RS_NewLittleRoundCorner"
+      }
+    },
+    "22,12": {
+      "BindingInfo": {
+        "TableName": "제품검사",
+        "ColumnName": "황모양측정결과",
+        "GUID": "98bdbc61-893d-4df9-a77b-c8bd0e47a54a"
+      },
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "TemplateKey": "_RS_NewLittleRoundCorner"
+      }
+    },
+    "22,14": {
+      "BindingInfo": {
+        "TableName": "제품검사",
+        "ColumnName": "만곡도측정자",
+        "GUID": "f104989c-3090-4f8f-8cea-cc74c033d076"
+      },
+      "CellType": {
+        "$type": "Forguncy.DropDownListCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner",
+        "Items": [
+          {
+            "Value": "1",
+            "DisplayValue": "김지원"
+          },
+          {
+            "Value": "2",
+            "DisplayValue": "이수아"
+          },
+          {
+            "Value": "3",
+            "DisplayValue": "황덕현"
+          }
+        ],
+        "CellDefaultValue": "%Null%"
+      }
+    },
+    "22,16": {
+      "BindingInfo": {
+        "TableName": "제품검사",
+        "ColumnName": "만곡도측정일",
+        "GUID": "2d594eda-b35b-4e28-8246-177027265e67"
+      },
+      "CellType": {
+        "$type": "Forguncy.DateCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner"
+      }
+    },
+    "23,12": {
+      "BindingInfo": {
+        "TableName": "제품검사",
+        "ColumnName": "파형측정결과",
+        "GUID": "c76674d6-7bba-4b49-951c-d81f606a10e2"
+      },
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "TemplateKey": "_RS_NewLittleRoundCorner"
+      }
+    },
+    "24,12": {
+      "BindingInfo": {
+        "TableName": "제품검사",
+        "ColumnName": "포장형상측정결과",
+        "GUID": "cf3039ff-cd9d-4c2f-b173-0809e7dfeec1"
+      },
+      "CellType": {
+        "$type": "Forguncy.RadioGroupCellType, ServerDesignerCommon",
+        "Style": 1,
+        "CellDefaultValue": "%Null%",
+        "Items": [
+          {
+            "Value": "양",
+            "DisplayValue": "양"
+          },
+          {
+            "Value": "불",
+            "DisplayValue": "불"
+          }
+        ]
+      }
+    },
+    "24,14": {
+      "BindingInfo": {
+        "TableName": "제품검사",
+        "ColumnName": "포장측정자",
+        "GUID": "615bae8a-28a4-47bd-be18-c7794c96accb"
+      },
+      "CellType": {
+        "$type": "Forguncy.DropDownListCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner",
+        "Items": [
+          {
+            "Value": "1",
+            "DisplayValue": "김지원"
+          },
+          {
+            "Value": "2",
+            "DisplayValue": "이수아"
+          },
+          {
+            "Value": "3",
+            "DisplayValue": "황덕현"
+          }
+        ],
+        "CellDefaultValue": "%Null%"
+      }
+    },
+    "24,16": {
+      "BindingInfo": {
+        "TableName": "제품검사",
+        "ColumnName": "포장특정일",
+        "GUID": "68932d9d-8582-4963-88a1-a25a9441ccb7"
+      },
+      "CellType": {
+        "$type": "Forguncy.DateCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner"
+      }
+    },
+    "25,12": {
+      "BindingInfo": {
+        "TableName": "제품검사",
+        "ColumnName": "포장길이측정결과",
+        "GUID": "6adefd09-581d-4c88-a03e-df6da73ecf11"
+      },
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "TemplateKey": "_RS_NewLittleRoundCorner"
+      }
+    },
+    "26,12": {
+      "BindingInfo": {
+        "TableName": "제품검사",
+        "ColumnName": "포장나비측정결과",
+        "GUID": "f1656c20-2bad-4600-b711-ddef91e88fbb"
+      },
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "TemplateKey": "_RS_NewLittleRoundCorner"
+      }
+    },
+    "27,12": {
+      "BindingInfo": {
+        "TableName": "제품검사",
+        "ColumnName": "내충격성측정결과",
+        "GUID": "dd0b993e-34fb-4bc4-a196-fb024e29afc6"
+      },
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "TemplateKey": "_RS_NewLittleRoundCorner"
+      }
+    },
+    "27,14": {
+      "BindingInfo": {
+        "TableName": "제품검사",
+        "ColumnName": "내충격성측정자",
+        "GUID": "e86535d8-00de-4063-b680-001885f33b26"
+      },
+      "CellType": {
+        "$type": "Forguncy.DropDownListCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner",
+        "Items": [
+          {
+            "Value": "1",
+            "DisplayValue": "김지원"
+          },
+          {
+            "Value": "2",
+            "DisplayValue": "이수아"
+          },
+          {
+            "Value": "3",
+            "DisplayValue": "황덕현"
+          }
+        ],
+        "CellDefaultValue": "%Null%"
+      }
+    },
+    "27,16": {
+      "BindingInfo": {
+        "TableName": "제품검사",
+        "ColumnName": "내충격성측정일",
+        "GUID": "16ca0142-66aa-4471-8c02-97ee91f59b86"
+      },
+      "CellType": {
+        "$type": "Forguncy.DateCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner"
+      }
+    },
+    "28,12": {
+      "BindingInfo": {
+        "TableName": "제품검사",
+        "ColumnName": "파쇄측정결과",
+        "GUID": "a98d58a9-c03a-412e-ab97-78c5fd3d7f8a"
+      },
+      "CellType": {
+        "$type": "Forguncy.RadioGroupCellType, ServerDesignerCommon",
+        "Style": 1,
+        "CellDefaultValue": "%Null%",
+        "Items": [
+          {
+            "Value": "양",
+            "DisplayValue": "양"
+          },
+          {
+            "Value": "불",
+            "DisplayValue": "불"
+          }
+        ]
+      }
+    },
+    "28,14": {
+      "BindingInfo": {
+        "TableName": "제품검사",
+        "ColumnName": "파쇄측정자",
+        "GUID": "9630c9e1-c2e3-4b8e-9aeb-778f2757d8ed"
+      },
+      "CellType": {
+        "$type": "Forguncy.DropDownListCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner",
+        "Items": [
+          {
+            "Value": "1",
+            "DisplayValue": "김지원"
+          },
+          {
+            "Value": "2",
+            "DisplayValue": "이수아"
+          },
+          {
+            "Value": "3",
+            "DisplayValue": "황덕현"
+          }
+        ],
+        "CellDefaultValue": "%Null%"
+      }
+    },
+    "28,16": {
+      "BindingInfo": {
+        "TableName": "제품검사",
+        "ColumnName": "파쇄측정일",
+        "GUID": "ee039d52-d8a3-4af5-9140-bfa5de9bf5c5"
+      },
+      "CellType": {
+        "$type": "Forguncy.DateCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner"
+      }
+    },
+    "29,12": {
+      "BindingInfo": {
+        "TableName": "제품검사",
+        "ColumnName": "쇼트백측정결과",
+        "GUID": "01de4297-eda6-486f-b4b7-e01d0bc1811f"
+      },
+      "CellType": {
+        "$type": "Forguncy.RadioGroupCellType, ServerDesignerCommon",
+        "Style": 1,
+        "CellDefaultValue": "%Null%",
+        "Items": [
+          {
+            "Value": "양",
+            "DisplayValue": "양"
+          },
+          {
+            "Value": "불",
+            "DisplayValue": "불"
+          }
+        ]
+      }
+    },
+    "29,14": {
+      "BindingInfo": {
+        "TableName": "제품검사",
+        "ColumnName": "쇼트백측정자",
+        "GUID": "4367e7ce-600a-4ae9-b186-fe2549c83e33"
+      },
+      "CellType": {
+        "$type": "Forguncy.DropDownListCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner",
+        "Items": [
+          {
+            "Value": "1",
+            "DisplayValue": "김지원"
+          },
+          {
+            "Value": "2",
+            "DisplayValue": "이수아"
+          },
+          {
+            "Value": "3",
+            "DisplayValue": "황덕현"
+          }
+        ],
+        "CellDefaultValue": "%Null%"
+      }
+    },
+    "29,16": {
+      "BindingInfo": {
+        "TableName": "제품검사",
+        "ColumnName": "쇼트백측정일",
+        "GUID": "c23e7b71-480f-48bb-90a5-19eb96cb00e2"
+      },
+      "CellType": {
+        "$type": "Forguncy.DateCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner"
+      }
+    },
+    "35,12": {
+      "BindingInfo": {
+        "TableName": "포장제품입고",
+        "ColumnName": "포장상태",
+        "GUID": "80622e11-9450-4b91-8944-6f080293a448"
+      },
+      "CellType": {
+        "$type": "Forguncy.RadioGroupCellType, ServerDesignerCommon",
+        "Style": 1,
+        "CellDefaultValue": "%Null%",
+        "Items": [
+          {
+            "Value": "양",
+            "DisplayValue": "양"
+          },
+          {
+            "Value": "불",
+            "DisplayValue": "불"
+          }
+        ]
+      }
+    },
+    "35,14": {
+      "BindingInfo": {
+        "TableName": "포장제품입고",
+        "ColumnName": "포장측정자",
+        "GUID": "e0b2d327-090c-416b-90f2-a626fa5d74a5"
+      },
+      "CellType": {
+        "$type": "Forguncy.DropDownListCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner",
+        "Items": [
+          {
+            "Value": "1",
+            "DisplayValue": "김지원"
+          },
+          {
+            "Value": "2",
+            "DisplayValue": "이수아"
+          },
+          {
+            "Value": "3",
+            "DisplayValue": "황덕현"
+          }
+        ],
+        "CellDefaultValue": "%Null%"
+      }
+    },
+    "35,16": {
+      "BindingInfo": {
+        "TableName": "포장제품입고",
+        "ColumnName": "포장측정일",
+        "GUID": "5afb047e-2b01-43e9-a7c5-cff0d0e8f70e"
+      },
+      "CellType": {
+        "$type": "Forguncy.DateCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner"
+      }
+    },
+    "39,7": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.UpdateDataTableCommand, ServerDesignerCommon",
+            "TableName": "제품검사",
+            "ShowConfirm": false
+          },
+          {
+            "$type": "Forguncy.Model.UpdateDataTableCommand, ServerDesignerCommon",
+            "TableName": "포장제품입고",
+            "ShowConfirm": false
+          },
+          {
+            "$type": "Forguncy.Model.ShowMessageCommand, ServerDesignerCommon",
+            "MessageFormula": "정상적으로 저장되었습니다."
+          }
+        ],
+        "Text": "저장",
+        "TemplateKey": "_RS_Main1"
+      }
+    },
+    "39,10": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.ExportPageToPdfCommand, ServerDesignerCommon",
+            "NewOtherName": "",
+            "AutoFitRowHeight": true
+          }
+        ],
+        "Text": "PDF",
+        "TemplateKey": "_RS_Information1"
+      }
+    },
+    "42,3": {
+      "ListViewInfo": {
+        "Name": "리스트뷰1",
+        "TableName": "프로젝트",
+        "RowIndex": 42,
+        "ColumnIndex": 3,
+        "RowCount": 3,
+        "ColumnCount": 1,
+        "SqlCondition": {
+          "$type": "ForguncyDataAccess.GeneralCESqlCondition, ForguncyDataAccess",
+          "ColumnBindingInfo": {
+            "TableName": "프로젝트",
+            "ColumnName": "ID",
+            "GUID": "4ed5668d-1d9a-40d5-a323-ab553d366e47"
+          },
+          "Value": {
+            "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+            "SerializeProperty": "='3_검사페이지(9~10)'!cell1"
+          }
+        },
+        "TopCondition": null,
+        "ListViewStyleName": "_RS_NewFashionListStyle2",
+        "ShowColumnHeaderInDesigner": true,
+        "ShowEditStatusIcon": true,
+        "UseSimpleBar": true,
+        "ColumnOperation": 2
+      }
+    },
+    "42,4": {
+      "ListViewInfo": {
+        "Name": "리스트뷰2",
+        "TableName": "제품검사",
+        "RowIndex": 42,
+        "ColumnIndex": 4,
+        "RowCount": 4,
+        "ColumnCount": 2,
+        "SqlCondition": {
+          "$type": "ForguncyDataAccess.GeneralCESqlCondition, ForguncyDataAccess",
+          "ColumnBindingInfo": {
+            "TableName": "제품검사",
+            "ColumnName": "프로젝트ID",
+            "GUID": "9f835af3-02e6-4a08-a946-fbe3e290f3f7"
+          },
+          "Value": {
+            "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+            "SerializeProperty": "='3_검사페이지(9~10)'!cell1"
+          }
+        },
+        "TopCondition": null,
+        "ListViewStyleName": "_RS_NewFashionListStyle2",
+        "ShowColumnHeaderInDesigner": true,
+        "ShowEditStatusIcon": true,
+        "UseSimpleBar": true,
+        "ColumnOperation": 2
+      }
+    },
+    "42,6": {
+      "ListViewInfo": {
+        "Name": "리스트뷰3",
+        "TableName": "포장제품입고",
+        "RowIndex": 42,
+        "ColumnIndex": 6,
+        "RowCount": 4,
+        "ColumnCount": 2,
+        "SqlCondition": {
+          "$type": "ForguncyDataAccess.GeneralCESqlCondition, ForguncyDataAccess",
+          "ColumnBindingInfo": {
+            "TableName": "포장제품입고",
+            "ColumnName": "프로젝트ID",
+            "GUID": "95b0784f-0f0f-480b-9fb7-ee8293d3e177"
+          },
+          "Value": {
+            "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+            "SerializeProperty": "='3_검사페이지(9~10)'!cell1"
+          }
+        },
+        "TopCondition": null,
+        "ListViewStyleName": "_RS_NewFashionListStyle2",
+        "ShowColumnHeaderInDesigner": true,
+        "ShowEditStatusIcon": true,
+        "UseSimpleBar": true,
+        "ColumnOperation": 2
+      }
+    },
+    "43,3": {
+      "BindingInfo": {
+        "TableName": "프로젝트",
+        "ColumnName": "ID",
+        "GUID": "519617a2-7105-4348-82c8-32f0fd91952c"
+      }
+    },
+    "43,4": {
+      "BindingInfo": {
+        "TableName": "제품검사",
+        "ColumnName": "ID",
+        "GUID": "414da5c4-22c2-4399-a65b-9fdaefeccac8"
+      }
+    },
+    "43,5": {
+      "BindingInfo": {
+        "TableName": "제품검사",
+        "ColumnName": "프로젝트ID",
+        "GUID": "0eaacbac-19e0-4266-bbba-f0ca2df2b1dd"
+      }
+    },
+    "43,6": {
+      "BindingInfo": {
+        "TableName": "포장제품입고",
+        "ColumnName": "ID",
+        "GUID": "b205f1fe-fc3c-47af-a78e-db97851509c0"
+      }
+    },
+    "43,7": {
+      "BindingInfo": {
+        "TableName": "포장제품입고",
+        "ColumnName": "프로젝트ID",
+        "GUID": "58a9585b-fd41-4f78-95d3-35f35947ebcc"
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "Background": 0
+      },
+      {
+        "Background": 1
+      },
+      {
+        "FontSize": 14.666666984558105,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false
+      },
+      {
+        "FontSize": 14.666666984558105,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 5,
+        "WordWrap": false,
+        "Strikethrough": false
+      },
+      {
+        "Background": 6,
+        "FontSize": 18.666666666666664,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 8,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false
+      },
+      {
+        "Background": 9
+      },
+      {
+        "Background": 10,
+        "FontSize": 16.0,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 8,
+        "VerticalAlignment": 5,
+        "WordWrap": false,
+        "Strikethrough": false,
+        "BorderBottom": 0,
+        "BorderTop": 0,
+        "BorderLeft": 0,
+        "BorderRight": 0
+      },
+      {
+        "FontSize": 14.666666984558105,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 12,
+        "TextIndent": 0,
+        "HorizontalAlignment": 13,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderBottom": 0,
+        "BorderTop": 0,
+        "BorderLeft": 0
+      },
+      {
+        "BorderBottom": 0,
+        "BorderTop": 0
+      },
+      {
+        "BorderBottom": 0,
+        "BorderTop": 0,
+        "BorderRight": 0
+      },
+      {
+        "Background": 10,
+        "FontSize": 16.0,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 13,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderBottom": 0,
+        "BorderTop": 0,
+        "BorderLeft": 0,
+        "BorderRight": 0
+      },
+      {
+        "FontSize": 14.666666984558105,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 13,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderBottom": 0,
+        "BorderTop": 0,
+        "BorderLeft": 0,
+        "BorderRight": 0
+      },
+      {
+        "FontSize": 14.666666984558105,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 8,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderLeft": 0
+      },
+      {
+        "FontSize": 18.66666603088379,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 8,
+        "VerticalAlignment": 5,
+        "WordWrap": false,
+        "Strikethrough": false,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontSize": 14.666666984558105,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 12,
+        "TextIndent": 0,
+        "HorizontalAlignment": 13,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderLeft": 0
+      },
+      {
+        "FontSize": 18.66666603088379,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 8,
+        "VerticalAlignment": 5,
+        "WordWrap": false,
+        "Strikethrough": false
+      },
+      {
+        "Background": 9,
+        "FontSize": 16.0,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 8,
+        "VerticalAlignment": 5,
+        "WordWrap": false,
+        "Strikethrough": false
+      },
+      {
+        "Background": 9,
+        "FontSize": 14.666666984558105,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 12,
+        "TextIndent": 0,
+        "HorizontalAlignment": 13,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false
+      },
+      {
+        "Background": 9,
+        "FontSize": 16.0,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 13,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false
+      },
+      {
+        "FontSize": 16.0,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 8,
+        "VerticalAlignment": 5,
+        "WordWrap": false,
+        "Strikethrough": false
+      },
+      {
+        "FontSize": 14.666666984558105,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 12,
+        "TextIndent": 0,
+        "HorizontalAlignment": 13,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false
+      },
+      {
+        "FontWeight": 7
+      },
+      {
+        "Formatter": 12
+      },
+      {
+        "FontSize": 14.666666984558105,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 8,
+        "VerticalAlignment": 5,
+        "WordWrap": false,
+        "Strikethrough": false,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 13,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontSize": 18.666666666666664,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": null,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 13,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 13,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false
+      },
+      {
+        "FontSize": 16.0,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 8,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontSize": 14.666666984558105,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 8,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "Background": 14,
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderBottom": 1,
+        "BorderTop": 1,
+        "BorderLeft": 1,
+        "BorderRight": 1
+      },
+      {
+        "BorderBottom": 1,
+        "BorderTop": 1,
+        "BorderLeft": 1,
+        "BorderRight": 1
+      },
+      {
+        "Background": 14,
+        "FontWeight": 7,
+        "HorizontalAlignment": 5,
+        "BorderBottom": 1,
+        "BorderTop": 1,
+        "BorderLeft": 1,
+        "BorderRight": 1
+      },
+      {
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false
+      },
+      {
+        "HorizontalAlignment": 5,
+        "BorderBottom": 1,
+        "BorderTop": 1,
+        "BorderLeft": 1,
+        "BorderRight": 1
+      },
+      {
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderBottom": 1,
+        "BorderTop": 1,
+        "BorderLeft": 1,
+        "BorderRight": 1
+      },
+      {
+        "Background": 0,
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderBottom": 1,
+        "BorderTop": 1,
+        "BorderLeft": 1,
+        "BorderRight": 1
+      },
+      {
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderBottom": 1,
+        "BorderTop": 1,
+        "BorderLeft": 1
+      },
+      {
+        "BorderBottom": 1,
+        "BorderTop": 1,
+        "BorderRight": 1
+      },
+      {
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderTop": 1,
+        "BorderLeft": 1
+      },
+      {
+        "BorderTop": 1,
+        "BorderRight": 1
+      },
+      {
+        "BorderTop": 1
+      },
+      {
+        "Background": 0,
+        "HorizontalAlignment": 5,
+        "BorderBottom": 1,
+        "BorderTop": 1,
+        "BorderLeft": 1,
+        "BorderRight": 1
+      },
+      {
+        "BorderLeft": 1
+      },
+      {
+        "BorderRight": 1
+      },
+      {
+        "BorderBottom": 1,
+        "BorderLeft": 1
+      },
+      {
+        "BorderBottom": 1,
+        "BorderRight": 1
+      },
+      {
+        "BorderBottom": 1
+      },
+      {
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 13,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderBottom": 1,
+        "BorderTop": 1,
+        "BorderLeft": 1,
+        "BorderRight": 1
+      },
+      {
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 3,
+        "Formatter": 12,
+        "TextIndent": 0,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderBottom": 1,
+        "BorderTop": 1,
+        "BorderLeft": 1
+      },
+      {
+        "BorderBottom": 1,
+        "BorderTop": 1
+      },
+      {
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false
+      },
+      {
+        "FontSize": 14.666666984558105,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 8,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderBottom": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "Background": 14,
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 3,
+        "Formatter": 4,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderBottom": 1,
+        "BorderTop": 1,
+        "BorderLeft": 1,
+        "BorderRight": 1
+      },
+      {
+        "Background": 0,
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderBottom": 1,
+        "BorderTop": 1,
+        "BorderLeft": 1,
+        "BorderRight": 1
+      },
+      {
+        "FontSize": 12.0,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false
+      },
+      {
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 12,
+        "TextIndent": 0,
+        "HorizontalAlignment": 13,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false
+      },
+      {
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 8,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false
+      },
+      {
+        "FontSize": 12.0,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false
+      },
+      {
+        "FontSize": 12.0,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 8,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false
+      },
+      {
+        "FontSize": 18.666666666666664,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 15,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 13,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontSize": 16.0,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": null,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 13,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false
+      },
+      {
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false
+      },
+      {
+        "FontFamily": 16,
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 8,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false
+      },
+      {
+        "FontFamily": 16,
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 8,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false
+      },
+      {
+        "FontFamily": 16,
+        "FontSize": 12.0,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 13,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false
+      },
+      {
+        "FontSize": 14.666666984558105,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 13,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "Background": null
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "Accent 1 80",
+        "#FFFFFF00",
+        "Normal",
+        "#FF000000",
+        "[AUTO]General",
+        "Center",
+        "Accent 1 60",
+        "Bold",
+        "Left",
+        "Background 1 -5",
+        "#FFE5F6FD",
+        "Background 1 -15",
+        "@",
+        "General",
+        "#FFE7E6E6",
+        "black",
+        "맑은 고딕",
+        "Body"
+      ],
+      "Borders": [
+        {
+          "Color": 11
+        },
+        {
+          "Color": 15
+        }
+      ]
+    },
+    "CellStyles": {
+      "0,0": 0,
+      "1,0": 1,
+      "1,3": 2,
+      "1,4": 2,
+      "1,5": 2,
+      "1,6": 2,
+      "1,7": 2,
+      "1,8": 3,
+      "2,2": 0,
+      "2,3": 4,
+      "3,2": 0,
+      "4,2": 5,
+      "4,3": 6,
+      "4,4": 7,
+      "4,5": 8,
+      "4,6": 8,
+      "4,7": 9,
+      "4,8": 5,
+      "4,9": 10,
+      "4,10": 11,
+      "4,11": 11,
+      "4,12": 11,
+      "4,13": 12,
+      "4,19": 5,
+      "4,21": 13,
+      "5,2": 5,
+      "5,3": 6,
+      "5,4": 7,
+      "5,5": 8,
+      "5,6": 8,
+      "5,7": 9,
+      "5,8": 5,
+      "5,9": 10,
+      "5,10": 11,
+      "5,11": 11,
+      "5,12": 11,
+      "5,13": 14,
+      "5,19": 5,
+      "5,21": 15,
+      "6,2": 5,
+      "6,3": 6,
+      "6,4": 7,
+      "6,5": 8,
+      "6,6": 8,
+      "6,7": 9,
+      "6,8": 5,
+      "6,9": 10,
+      "6,10": 11,
+      "6,11": 11,
+      "6,12": 11,
+      "6,13": 14,
+      "6,19": 5,
+      "6,21": 15,
+      "7,2": 5,
+      "7,3": 16,
+      "7,4": 17,
+      "7,5": 17,
+      "7,6": 17,
+      "7,7": 17,
+      "7,8": 5,
+      "7,9": 18,
+      "7,10": 18,
+      "7,11": 18,
+      "7,12": 18,
+      "7,13": 17,
+      "7,14": 17,
+      "7,15": 17,
+      "7,16": 17,
+      "7,17": 17,
+      "7,18": 17,
+      "7,19": 5,
+      "7,21": 15,
+      "8,3": 19,
+      "8,4": 20,
+      "8,5": 20,
+      "8,6": 20,
+      "8,8": 15,
+      "8,9": 21,
+      "8,10": 21,
+      "8,11": 21,
+      "8,12": 21,
+      "8,13": 22,
+      "8,14": 22,
+      "8,15": 22,
+      "8,17": 15,
+      "8,21": 15,
+      "10,3": 23,
+      "10,4": 23,
+      "10,5": 23,
+      "10,6": 23,
+      "10,7": 23,
+      "10,8": 23,
+      "10,9": 24,
+      "10,10": 24,
+      "10,11": 23,
+      "10,12": 24,
+      "10,13": 24,
+      "10,14": 23,
+      "10,15": 24,
+      "10,16": 24,
+      "10,17": 25,
+      "10,18": 24,
+      "10,19": 24,
+      "10,20": 26,
+      "10,21": 23,
+      "10,22": 24,
+      "13,3": 27,
+      "13,4": 28,
+      "13,5": 28,
+      "13,6": 28,
+      "13,7": 28,
+      "13,8": 28,
+      "13,11": 28,
+      "13,14": 28,
+      "13,17": 28,
+      "13,21": 28,
+      "15,3": 29,
+      "15,4": 29,
+      "15,5": 29,
+      "15,6": 29,
+      "15,7": 30,
+      "15,8": 30,
+      "15,9": 30,
+      "15,10": 30,
+      "15,11": 30,
+      "15,12": 31,
+      "15,13": 30,
+      "15,14": 29,
+      "15,15": 29,
+      "15,16": 29,
+      "15,17": 30,
+      "15,18": 30,
+      "15,21": 32,
+      "16,3": 33,
+      "16,4": 34,
+      "16,5": 30,
+      "16,6": 35,
+      "16,7": 30,
+      "16,8": 30,
+      "16,9": 30,
+      "16,10": 30,
+      "16,11": 30,
+      "16,12": 36,
+      "16,13": 37,
+      "16,14": 38,
+      "16,15": 39,
+      "16,16": 38,
+      "16,17": 40,
+      "16,18": 39,
+      "16,19": 32,
+      "16,20": 32,
+      "17,3": 30,
+      "17,4": 34,
+      "17,5": 30,
+      "17,6": 41,
+      "17,7": 30,
+      "17,8": 30,
+      "17,9": 30,
+      "17,10": 30,
+      "17,11": 30,
+      "17,12": 36,
+      "17,13": 37,
+      "17,14": 42,
+      "17,15": 43,
+      "17,16": 42,
+      "17,18": 43,
+      "17,19": 32,
+      "17,20": 32,
+      "18,3": 30,
+      "18,4": 34,
+      "18,5": 30,
+      "18,6": 35,
+      "18,7": 30,
+      "18,8": 30,
+      "18,9": 30,
+      "18,10": 30,
+      "18,11": 30,
+      "18,12": 36,
+      "18,13": 37,
+      "18,14": 44,
+      "18,15": 45,
+      "18,16": 44,
+      "18,17": 46,
+      "18,18": 45,
+      "18,19": 32,
+      "18,20": 32,
+      "18,21": 32,
+      "18,22": 26,
+      "19,3": 34,
+      "19,4": 34,
+      "19,5": 47,
+      "19,6": 35,
+      "19,7": 30,
+      "19,8": 30,
+      "19,9": 30,
+      "19,10": 30,
+      "19,11": 30,
+      "19,12": 48,
+      "19,13": 37,
+      "19,14": 38,
+      "19,15": 39,
+      "19,16": 38,
+      "19,17": 40,
+      "19,18": 39,
+      "19,19": 32,
+      "19,20": 32,
+      "19,21": 32,
+      "19,22": 26,
+      "20,3": 30,
+      "20,4": 34,
+      "20,5": 30,
+      "20,6": 30,
+      "20,7": 30,
+      "20,8": 30,
+      "20,9": 30,
+      "20,10": 30,
+      "20,11": 30,
+      "20,12": 48,
+      "20,13": 37,
+      "20,14": 42,
+      "20,15": 43,
+      "20,16": 42,
+      "20,18": 43,
+      "20,19": 32,
+      "20,20": 32,
+      "20,21": 32,
+      "20,22": 26,
+      "21,3": 30,
+      "21,4": 34,
+      "21,5": 30,
+      "21,6": 30,
+      "21,7": 30,
+      "21,8": 30,
+      "21,9": 30,
+      "21,10": 30,
+      "21,11": 30,
+      "21,12": 48,
+      "21,13": 37,
+      "21,14": 44,
+      "21,15": 45,
+      "21,16": 44,
+      "21,17": 46,
+      "21,18": 45,
+      "21,19": 32,
+      "21,20": 32,
+      "21,21": 32,
+      "21,22": 26,
+      "22,3": 34,
+      "22,4": 34,
+      "22,5": 30,
+      "22,6": 35,
+      "22,7": 30,
+      "22,8": 30,
+      "22,9": 30,
+      "22,10": 30,
+      "22,11": 30,
+      "22,12": 48,
+      "22,13": 37,
+      "22,14": 38,
+      "22,15": 39,
+      "22,16": 38,
+      "22,17": 40,
+      "22,18": 39,
+      "22,19": 32,
+      "22,20": 32,
+      "22,21": 32,
+      "22,22": 26,
+      "23,3": 30,
+      "23,4": 34,
+      "23,5": 30,
+      "23,6": 35,
+      "23,7": 47,
+      "23,8": 47,
+      "23,9": 47,
+      "23,10": 47,
+      "23,11": 47,
+      "23,12": 48,
+      "23,13": 37,
+      "23,14": 44,
+      "23,15": 45,
+      "23,16": 44,
+      "23,17": 46,
+      "23,18": 45,
+      "23,19": 32,
+      "23,20": 32,
+      "23,21": 32,
+      "23,22": 26,
+      "24,3": 34,
+      "24,4": 34,
+      "24,5": 30,
+      "24,6": 35,
+      "24,7": 30,
+      "24,8": 30,
+      "24,9": 30,
+      "24,10": 30,
+      "24,11": 30,
+      "24,12": 36,
+      "24,13": 37,
+      "24,14": 38,
+      "24,15": 39,
+      "24,16": 38,
+      "24,17": 40,
+      "24,18": 39,
+      "24,19": 32,
+      "24,20": 32,
+      "24,21": 32,
+      "24,22": 26,
+      "25,3": 30,
+      "25,4": 34,
+      "25,5": 34,
+      "25,6": 35,
+      "25,7": 30,
+      "25,8": 30,
+      "25,9": 30,
+      "25,10": 30,
+      "25,11": 30,
+      "25,12": 48,
+      "25,13": 37,
+      "25,14": 42,
+      "25,15": 43,
+      "25,16": 42,
+      "25,18": 43,
+      "25,19": 32,
+      "25,20": 32,
+      "25,21": 32,
+      "25,22": 26,
+      "26,3": 30,
+      "26,4": 30,
+      "26,5": 34,
+      "26,6": 30,
+      "26,7": 30,
+      "26,8": 30,
+      "26,9": 30,
+      "26,10": 30,
+      "26,11": 30,
+      "26,12": 48,
+      "26,13": 37,
+      "26,14": 44,
+      "26,15": 45,
+      "26,16": 44,
+      "26,17": 46,
+      "26,18": 45,
+      "26,19": 32,
+      "26,20": 32,
+      "26,21": 32,
+      "26,22": 26,
+      "27,3": 34,
+      "27,4": 30,
+      "27,5": 30,
+      "27,6": 35,
+      "27,7": 30,
+      "27,8": 30,
+      "27,9": 30,
+      "27,10": 30,
+      "27,11": 30,
+      "27,12": 48,
+      "27,13": 37,
+      "27,14": 36,
+      "27,15": 37,
+      "27,16": 36,
+      "27,17": 49,
+      "27,18": 37,
+      "27,19": 32,
+      "27,20": 32,
+      "27,21": 32,
+      "27,22": 26,
+      "28,3": 34,
+      "28,4": 30,
+      "28,5": 30,
+      "28,6": 35,
+      "28,7": 47,
+      "28,8": 47,
+      "28,9": 47,
+      "28,10": 47,
+      "28,11": 47,
+      "28,12": 36,
+      "28,13": 37,
+      "28,14": 36,
+      "28,15": 37,
+      "28,16": 36,
+      "28,17": 49,
+      "28,18": 37,
+      "28,19": 32,
+      "28,20": 32,
+      "28,21": 32,
+      "28,22": 26,
+      "29,3": 34,
+      "29,4": 30,
+      "29,5": 30,
+      "29,6": 35,
+      "29,7": 47,
+      "29,8": 47,
+      "29,9": 47,
+      "29,10": 47,
+      "29,11": 47,
+      "29,12": 36,
+      "29,13": 37,
+      "29,14": 36,
+      "29,15": 37,
+      "29,16": 36,
+      "29,17": 49,
+      "29,18": 37,
+      "29,19": 32,
+      "29,20": 32,
+      "29,21": 32,
+      "29,22": 26,
+      "30,6": 26,
+      "30,7": 26,
+      "30,8": 26,
+      "30,9": 26,
+      "30,10": 26,
+      "30,11": 26,
+      "30,14": 32,
+      "30,15": 32,
+      "30,19": 32,
+      "30,20": 32,
+      "30,21": 32,
+      "30,22": 32,
+      "31,3": 50,
+      "31,4": 50,
+      "31,5": 50,
+      "31,6": 32,
+      "31,7": 32,
+      "31,8": 32,
+      "31,9": 32,
+      "31,10": 32,
+      "31,11": 32,
+      "31,12": 32,
+      "31,13": 32,
+      "31,14": 32,
+      "31,15": 32,
+      "31,16": 32,
+      "31,17": 32,
+      "31,18": 32,
+      "31,19": 32,
+      "31,20": 32,
+      "31,21": 32,
+      "31,22": 32,
+      "32,3": 27,
+      "32,4": 28,
+      "32,5": 28,
+      "32,6": 28,
+      "32,7": 28,
+      "32,8": 28,
+      "32,11": 28,
+      "32,14": 28,
+      "32,17": 28,
+      "32,21": 51,
+      "34,3": 29,
+      "34,4": 47,
+      "34,5": 47,
+      "34,6": 29,
+      "34,7": 47,
+      "34,8": 47,
+      "34,9": 47,
+      "34,10": 47,
+      "34,11": 47,
+      "34,12": 52,
+      "34,13": 47,
+      "34,14": 29,
+      "34,15": 29,
+      "34,16": 29,
+      "34,17": 47,
+      "34,18": 47,
+      "34,19": 32,
+      "34,20": 32,
+      "34,21": 32,
+      "35,3": 34,
+      "35,4": 47,
+      "35,5": 47,
+      "35,6": 53,
+      "35,7": 47,
+      "35,8": 47,
+      "35,9": 47,
+      "35,10": 47,
+      "35,11": 47,
+      "35,12": 36,
+      "35,13": 37,
+      "35,14": 36,
+      "35,15": 37,
+      "35,16": 36,
+      "35,17": 49,
+      "35,18": 37,
+      "35,19": 32,
+      "35,20": 32,
+      "35,21": 32,
+      "36,3": 26,
+      "36,4": 54,
+      "36,5": 26,
+      "36,6": 26,
+      "36,7": 26,
+      "36,8": 26,
+      "36,9": 26,
+      "36,10": 26,
+      "36,11": 26,
+      "36,12": 55,
+      "36,13": 26,
+      "36,14": 32,
+      "36,15": 26,
+      "36,16": 32,
+      "36,17": 26,
+      "36,18": 26,
+      "36,19": 56,
+      "36,20": 56,
+      "36,21": 32,
+      "37,3": 21,
+      "37,4": 57,
+      "37,12": 55,
+      "37,19": 58,
+      "37,20": 58,
+      "37,21": 32,
+      "38,4": 57,
+      "38,12": 55,
+      "38,19": 58,
+      "38,20": 58,
+      "38,21": 32,
+      "39,3": 32,
+      "39,4": 26,
+      "39,5": 26,
+      "39,6": 32,
+      "39,7": 59,
+      "39,8": 24,
+      "39,9": 24,
+      "39,10": 60,
+      "39,11": 24,
+      "39,12": 26,
+      "39,13": 26,
+      "39,14": 32,
+      "39,15": 32,
+      "39,16": 32,
+      "39,17": 26,
+      "39,18": 26,
+      "39,19": 56,
+      "39,20": 56,
+      "39,21": 32,
+      "40,3": 50,
+      "40,4": 61,
+      "40,6": 50,
+      "40,7": 26,
+      "40,8": 26,
+      "40,9": 26,
+      "40,10": 26,
+      "40,11": 26,
+      "40,12": 32,
+      "40,13": 26,
+      "40,14": 32,
+      "40,15": 26,
+      "40,16": 32,
+      "40,17": 26,
+      "40,18": 26,
+      "41,4": 61,
+      "41,6": 50,
+      "41,8": 26,
+      "41,9": 26,
+      "41,10": 26,
+      "41,11": 26,
+      "41,12": 32,
+      "41,13": 26,
+      "41,14": 32,
+      "41,15": 26,
+      "41,16": 32,
+      "41,17": 26,
+      "41,18": 26,
+      "42,3": 32,
+      "42,4": 26,
+      "42,5": 26,
+      "42,6": 62,
+      "42,7": 26,
+      "42,8": 26,
+      "42,9": 26,
+      "42,10": 26,
+      "42,11": 26,
+      "42,12": 26,
+      "42,13": 26,
+      "42,14": 26,
+      "42,15": 26,
+      "42,16": 26,
+      "42,17": 26,
+      "42,18": 26,
+      "43,3": 32,
+      "43,4": 26,
+      "43,5": 26,
+      "43,6": 32,
+      "43,7": 26,
+      "43,8": 26,
+      "43,9": 26,
+      "43,10": 26,
+      "43,11": 26,
+      "43,12": 26,
+      "43,13": 26,
+      "43,14": 26,
+      "43,15": 26,
+      "43,16": 26,
+      "43,17": 26,
+      "43,18": 26,
+      "44,3": 63,
+      "44,4": 64,
+      "44,5": 56,
+      "44,6": 65,
+      "44,7": 26,
+      "44,8": 26,
+      "44,9": 26,
+      "44,10": 26,
+      "44,11": 26,
+      "44,12": 32,
+      "44,13": 26,
+      "44,14": 32,
+      "44,15": 26,
+      "44,16": 32,
+      "44,17": 26,
+      "44,18": 26,
+      "45,3": 50,
+      "45,4": 50,
+      "45,5": 26,
+      "45,6": 26,
+      "45,7": 26,
+      "45,8": 26,
+      "45,9": 26,
+      "45,10": 26,
+      "45,11": 26,
+      "45,12": 55,
+      "45,13": 26,
+      "45,14": 32,
+      "45,15": 26,
+      "45,16": 32,
+      "45,17": 26,
+      "45,18": 26
+    },
+    "RowStyles": {
+      "1": 66,
+      "2": 66,
+      "3": 66,
+      "4": 66,
+      "5": 66,
+      "6": 66,
+      "7": 66,
+      "8": 66,
+      "39": 67,
+      "40": 67,
+      "41": 67,
+      "42": 67,
+      "43": 67,
+      "44": 67,
+      "45": 67
+    },
+    "ColStyles": {
+      "2": 24,
+      "3": 24,
+      "4": 24,
+      "5": 24,
+      "6": 24,
+      "7": 24,
+      "8": 24,
+      "9": 24,
+      "10": 24,
+      "11": 24,
+      "12": 24,
+      "13": 24,
+      "14": 24,
+      "15": 24,
+      "16": 24,
+      "17": 24,
+      "18": 24,
+      "19": 24,
+      "20": 24,
+      "21": 24,
+      "22": 24
+    },
+    "SheetStyle": {
+      "FontFamily": 17,
+      "FontSize": 14.666666984558105,
+      "FontStyle": 2,
+      "FontWeight": 2,
+      "Foreground": 3,
+      "Formatter": 4,
+      "TextIndent": 0,
+      "HorizontalAlignment": 13,
+      "VerticalAlignment": 5,
+      "WordWrap": false,
+      "Strikethrough": false,
+      "BorderBottom": null,
+      "BorderTop": null,
+      "BorderLeft": null,
+      "BorderRight": null
+    }
+  },
+  "Spans": [
+    "15,3,1,3",
+    "34,21,1,2",
+    "35,21,1,2",
+    "36,21,1,2",
+    "37,21,1,2",
+    "38,21,1,2",
+    "39,21,1,2",
+    "15,6,1,6",
+    "15,12,1,2",
+    "15,14,1,2",
+    "15,16,1,3",
+    "4,9,1,4",
+    "5,9,1,4",
+    "6,9,1,4",
+    "34,3,1,3",
+    "34,6,1,6",
+    "34,12,1,2",
+    "34,14,1,2",
+    "34,16,1,3",
+    "35,6,1,6",
+    "35,3,1,3",
+    "16,4,1,2",
+    "17,4,1,2",
+    "18,4,1,2",
+    "16,3,3,1",
+    "16,6,1,6",
+    "17,6,1,6",
+    "18,6,1,6",
+    "19,4,1,2",
+    "19,6,3,6",
+    "20,4,1,2",
+    "21,4,1,2",
+    "19,3,3,1",
+    "22,3,2,1",
+    "22,4,1,2",
+    "23,4,1,2",
+    "22,6,1,6",
+    "23,6,1,6",
+    "24,4,1,2",
+    "24,6,1,6",
+    "28,6,1,6",
+    "29,6,1,6",
+    "25,4,2,1",
+    "24,3,3,1",
+    "25,6,2,6",
+    "27,3,1,3",
+    "27,6,1,6",
+    "28,3,1,3",
+    "29,3,1,3",
+    "39,10,1,2",
+    "16,12,1,2",
+    "17,12,1,2",
+    "18,12,1,2",
+    "16,14,3,2",
+    "16,16,3,3",
+    "19,14,3,2",
+    "19,16,3,3",
+    "22,14,2,2",
+    "22,16,2,3",
+    "24,12,1,2",
+    "24,14,3,2",
+    "24,16,3,3",
+    "27,14,1,2",
+    "27,16,1,3",
+    "28,12,1,2",
+    "28,14,1,2",
+    "28,16,1,3",
+    "29,12,1,2",
+    "29,14,1,2",
+    "29,16,1,3",
+    "35,12,1,2",
+    "35,14,1,2",
+    "35,16,1,3",
+    "41,4,1,2",
+    "41,6,1,2",
+    "4,4,1,4",
+    "5,4,1,4",
+    "6,4,1,4",
+    "4,13,1,6",
+    "5,13,1,6",
+    "6,13,1,6",
+    "44,6,2,2",
+    "44,4,2,2",
+    "10,17,1,2",
+    "25,12,1,2",
+    "26,12,1,2",
+    "27,12,1,2",
+    "19,12,1,2",
+    "20,12,1,2",
+    "21,12,1,2",
+    "22,12,1,2",
+    "23,12,1,2",
+    "2,3,2,17"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "MasterPageName": "공정관리마스터페이지",
+    "PermissionData": {
+      "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionData, Forguncy.RbacPermission.Core",
+      "permissionResource": {
+        "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionResource, Forguncy.RbacPermission.Core"
+      },
+      "permissionBindings": [
+        {
+          "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionBinding, Forguncy.RbacPermission.Core",
+          "roleNames": [
+            "FGC_LoginUser",
+            "FGC_Anonymous"
+          ]
+        }
+      ]
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": [],
+    "RelatedDataTableName": "프로젝트"
+  },
+  "PrintInfo": {
+    "ColumnStart": 3,
+    "ColumnEnd": 18,
+    "RowStart": 13,
+    "RowEnd": 37,
+    "ZoomFactor": 0.6499999999999997,
+    "PaperSize": {},
+    "ShowColumnHeader": 1,
+    "ShowRowHeader": 1,
+    "Orientation": 2,
+    "Margin": {},
+    "PageOrder": 1
+  },
+  "CustomNames": [
+    {
+      "Name": "cell1",
+      "Formula": "'3_검사페이지(9~10)'!$A$1"
+    },
+    {
+      "Name": "menu",
+      "Formula": "'3_검사페이지(9~10)'!$A$2"
+    }
+  ]
+}//0oqmZPRVH+yUgnKTcnpGfiEprTEIumhocrcfzT5M0/FZ19IGBNlswjyuW44+YAp4oqS4CE0EbOuch2ccZnjsSuHbwJK5OO3BKmRXzWivZIySdlQPkl7BfemYVe61Lujp0U5G8Q0MrKymSR4Wo1tEepLAGCnbc0WzE73Dlox9+DGAWPUsLmmcIdlA6D46HZEYTVEvr0MmH0jF/HwTkpy5qvTH2mVvWBnCWetKt3DpysLAQz5zR9AXVXGOpk1jMlnIBT0viQbuAlQW9OGF/NPOQkqQSbsml/SqaPlXgz1dnBBS9dQWouqnuyfpXYS0yLsECJpfaFbrWnmXtkH0slS5OHfyvK0u7+9weR+UDjnHOMJFd6Sd1JgRJdg9NE4KeVNHJm1EZD2I/MKw1VKwuLta2rugMbbbJljGGcr9O4Dnt0n+byxKeFCcYIg7q+S8TK49W9V7Bh8oeRbVL/krrpoXCEPSG5X2BgsJXuOih0ZOKrN9NQhMhhNhHgH8P521g5pSD8dmaLdwZUHYP7UIy4CQzxkt9ntD6BP998zFIDteaLvRO7tCUkOj+eEpbkGc1X272GVVlGRPRmV7hbn0+A7lfYB7r3pmOCPOwZUG5gjreWXt8Ph3pB9zfnrcusPa9uLYyQI3pqonYerxra8JHKob6wOYRaI5ex4nr6AWEzgO/LIuHbv3cM8qAP8FB5+D3yehp19CwJVIEajSIjWQhAagrZS+L/LYtdU6oZPh7uWnYIN0WiOMXshLClA8h8EmZjIVGMr7P4KVyP6NxRdQfJfpLqOcw/6xSIbv+3L5GRn/2dGAUOt1p3RKF+vwigHm6Odf8yLj4fX4Y/jbew4KGI1lVrIlWbrIQeHWmXhr+mG6Ds7ohgIC2yBl7oIGFjjt14bqAdVVRc9uClE2ZM+ZXhKVXw==|920

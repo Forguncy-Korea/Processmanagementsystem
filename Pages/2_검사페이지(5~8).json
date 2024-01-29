@@ -1,0 +1,2991 @@
+{
+  "Rows": {
+    "RowColumnAttachedInfos": {
+      "1": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 16.0,
+          "IsHidden": true
+        }
+      },
+      "2": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 15.0
+        }
+      },
+      "3": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 15.0
+        }
+      },
+      "4": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 29.0
+        }
+      },
+      "5": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 29.0
+        }
+      },
+      "6": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 29.0
+        }
+      },
+      "7": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 11.0
+        }
+      },
+      "8": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 10.0
+        }
+      },
+      "9": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 10.0
+        }
+      },
+      "10": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 34.0
+        }
+      },
+      "11": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "13": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "15": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 33.0
+        }
+      },
+      "16": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 19.0
+        }
+      },
+      "21": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "23": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 34.0
+        }
+      },
+      "24": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 34.0
+        }
+      },
+      "25": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 41.0
+        }
+      },
+      "26": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 18.0
+        }
+      },
+      "27": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 18.0
+        }
+      },
+      "28": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 18.0
+        }
+      },
+      "29": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 38.0
+        }
+      },
+      "30": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 38.0
+        }
+      },
+      "31": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 34.0
+        }
+      },
+      "32": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 18.0
+        }
+      },
+      "33": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 18.0
+        }
+      },
+      "34": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 18.0
+        }
+      },
+      "35": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 34.0
+        }
+      },
+      "36": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 40.0
+        }
+      },
+      "37": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 40.0
+        }
+      },
+      "38": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 40.0
+        }
+      },
+      "39": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 40.0
+        }
+      },
+      "40": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 18.0
+        }
+      },
+      "42": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 34.0
+        }
+      },
+      "44": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 34.0,
+          "IsHidden": true
+        }
+      },
+      "46": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 18.0,
+          "IsHidden": true
+        }
+      },
+      "47": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 18.0,
+          "IsHidden": true
+        }
+      }
+    },
+    "InLogicalVisibleIndexes": [
+      0,
+      1,
+      44,
+      45,
+      46,
+      47
+    ],
+    "Count": 48,
+    "DefaultSize": 18.0
+  },
+  "Cols": {
+    "RowColumnAttachedInfos": {
+      "0": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 31.0,
+          "IsHidden": true
+        }
+      },
+      "1": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 31.0
+        }
+      },
+      "2": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 5.0
+        }
+      },
+      "3": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 139.0
+        }
+      },
+      "4": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 79.0
+        }
+      },
+      "5": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 79.0
+        }
+      },
+      "6": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 79.0
+        }
+      },
+      "7": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 79.0
+        }
+      },
+      "8": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 12.0
+        }
+      },
+      "9": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 41.0
+        }
+      },
+      "10": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 41.0
+        }
+      },
+      "11": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 41.0
+        }
+      },
+      "12": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 79.0
+        }
+      },
+      "13": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 79.0
+        }
+      },
+      "14": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 79.0
+        }
+      },
+      "15": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 79.0
+        }
+      },
+      "16": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 41.0
+        }
+      },
+      "17": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 41.0
+        }
+      },
+      "18": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 41.0
+        }
+      },
+      "19": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 5.0
+        }
+      },
+      "20": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 13.0
+        }
+      },
+      "21": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 24.0
+        }
+      },
+      "22": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 24.0
+        }
+      }
+    },
+    "InLogicalVisibleIndexes": [
+      0
+    ],
+    "Count": 23,
+    "DefaultSize": 79.0
+  },
+  "Values": {
+    "1,0": 1,
+    "2,3": "프로젝트",
+    "4,3": "제품코드",
+    "4,9": "작업날짜",
+    "5,3": "Lot #",
+    "5,9": "개발용도",
+    "6,3": "프로세스 ",
+    "6,9": "담당자",
+    "10,3": "상기 표시된 공정은 반드시 각 작업자들이 작업 결과를 체크하여 측정자가 서명해야 합니다.",
+    "10,17": "저장",
+    "13,3": "5. 천공",
+    "15,3": "항목",
+    "15,6": "검사기준",
+    "15,12": "측정결과",
+    "15,14": "측정자",
+    "15,16": "월일",
+    "16,3": "겉모양",
+    "16,6": "이상없을 것",
+    "16,12": "%Null%",
+    "16,14": "%Null%",
+    "18,3": "치수(직경)",
+    "18,6": "±0.5㎜",
+    "18,12": "%Null%",
+    "18,14": "%Null%",
+    "21,3": "6. 세척건조",
+    "23,3": "항목",
+    "23,6": "검사기준",
+    "23,12": "측정결과",
+    "23,14": "측정자",
+    "23,16": "월일",
+    "24,3": "세척건조",
+    "24,6": "깨끗하며 이상 없을 것",
+    "24,12": "%Null%",
+    "24,14": "%Null%",
+    "25,3": "건조온도",
+    "25,6": "상온 상습",
+    "25,12": "%Null%",
+    "25,14": "%Null%",
+    "27,3": "7. 마크표시",
+    "29,3": "항목",
+    "29,6": "검사기준",
+    "29,12": "측정결과",
+    "29,14": "측정자",
+    "29,16": "월일",
+    "30,3": "인쇄표시",
+    "30,4": "겉모양\r\n(선명도)",
+    "30,6": "이상없을 것",
+    "30,12": "%Null%",
+    "30,14": "%Null%",
+    "31,4": "마크위치",
+    "31,6": "우측하단 모서리",
+    "31,12": "%Null%",
+    "31,14": "%Null%",
+    "33,3": "8. 강화",
+    "35,3": "항목",
+    "35,6": "검사기준",
+    "35,12": "측정결과",
+    "35,14": "측정자",
+    "35,16": "월일",
+    "36,3": "가열온도 (℃)",
+    "36,6": "로트별 관리강화 공정 관리일지",
+    "36,14": "%Null%",
+    "37,3": "가열시간 (초)",
+    "37,14": "%Null%",
+    "38,3": "냉강풍압 (mmAq)",
+    "38,14": "%Null%",
+    "39,3": "냉각시간 (초)",
+    "39,14": "%Null%",
+    "42,7": "저장",
+    "42,10": "PDF",
+    "44,3": "*천공리스트뷰",
+    "44,6": "*세척건조리스트뷰",
+    "44,12": "*마크표시리스트뷰",
+    "44,14": "*강화리스트뷰",
+    "44,16": "*프로젝트"
+  },
+  "Formulas": {
+    "0,0": "ODATA(\"페이지?$select=_2페이지&$filter=ID eq 1\")"
+  },
+  "AttachInfos": {
+    "0,0": {
+      "BindingInfo": {
+        "TableName": "프로젝트",
+        "ColumnName": "ID",
+        "GUID": "b95db149-fd8d-473a-aae9-9a840ec474e4"
+      }
+    },
+    "4,4": {
+      "BindingInfo": {
+        "TableName": "프로젝트",
+        "ColumnName": "제품코드",
+        "GUID": "a9bb11c7-b202-4cc0-b38a-c6fdc3c1b0d9"
+      },
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "TemplateKey": "_RS_NewLittleRoundCorner",
+        "ReadOnly": true
+      }
+    },
+    "4,13": {
+      "BindingInfo": {
+        "TableName": "프로젝트",
+        "ColumnName": "작업날짜",
+        "GUID": "e05f9a39-bec6-4f80-af04-85332c164b2d"
+      },
+      "CellType": {
+        "$type": "Forguncy.DateCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner",
+        "ReadOnly": true
+      }
+    },
+    "5,4": {
+      "BindingInfo": {
+        "TableName": "프로젝트",
+        "ColumnName": "Lot_",
+        "GUID": "9d5bb40f-4b43-4e63-9749-7421361ff78a"
+      },
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "TemplateKey": "_RS_NewLittleRoundCorner",
+        "ReadOnly": true
+      }
+    },
+    "5,13": {
+      "BindingInfo": {
+        "TableName": "프로젝트",
+        "ColumnName": "개발용도",
+        "GUID": "e353663c-bdc9-4a67-9c3e-615bcbbad9e3"
+      },
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "TemplateKey": "_RS_NewLittleRoundCorner",
+        "ReadOnly": true
+      }
+    },
+    "6,4": {
+      "BindingInfo": {
+        "TableName": "프로젝트",
+        "ColumnName": "프로세스",
+        "GUID": "d2201bf8-dcd3-4357-9cf4-3e4911a7a78d"
+      },
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "TemplateKey": "_RS_NewLittleRoundCorner",
+        "ReadOnly": true
+      }
+    },
+    "6,13": {
+      "BindingInfo": {
+        "TableName": "프로젝트",
+        "ColumnName": "담당자",
+        "GUID": "b486d74d-4f13-4e5b-a849-b000583b5d6e"
+      },
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "TemplateKey": "_RS_NewLittleRoundCorner",
+        "ReadOnly": true
+      }
+    },
+    "10,17": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.UpdateDataTableCommand, ServerDesignerCommon",
+            "TableName": "천공",
+            "ShowConfirm": false
+          },
+          {
+            "$type": "Forguncy.Model.UpdateDataTableCommand, ServerDesignerCommon",
+            "TableName": "세척건조",
+            "ShowConfirm": false
+          },
+          {
+            "$type": "Forguncy.Model.UpdateDataTableCommand, ServerDesignerCommon",
+            "TableName": "마크표시",
+            "ShowConfirm": false
+          },
+          {
+            "$type": "Forguncy.Model.UpdateDataTableCommand, ServerDesignerCommon",
+            "TableName": "강화",
+            "ShowConfirm": false
+          },
+          {
+            "$type": "Forguncy.Model.ShowMessageCommand, ServerDesignerCommon",
+            "MessageFormula": "정상적으로 저장되었습니다."
+          }
+        ],
+        "Text": "저장",
+        "TemplateKey": "_RS_Main1"
+      }
+    },
+    "16,12": {
+      "BindingInfo": {
+        "TableName": "천공",
+        "ColumnName": "겉모양측정결과",
+        "GUID": "bb400735-a854-4ac6-8868-ec0ece9b5d90"
+      },
+      "CellType": {
+        "$type": "Forguncy.RadioGroupCellType, ServerDesignerCommon",
+        "Style": 1,
+        "CellDefaultValue": "%Null%",
+        "Items": [
+          {
+            "Value": "양",
+            "DisplayValue": "양"
+          },
+          {
+            "Value": "불",
+            "DisplayValue": "불"
+          }
+        ]
+      }
+    },
+    "16,14": {
+      "BindingInfo": {
+        "TableName": "천공",
+        "ColumnName": "겉모양측정자",
+        "GUID": "54fd4b93-6662-4dea-8605-b7c967a3ccad"
+      },
+      "CellType": {
+        "$type": "Forguncy.DropDownListCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner",
+        "Items": [
+          {
+            "Value": "1",
+            "DisplayValue": "김지원"
+          },
+          {
+            "Value": "2",
+            "DisplayValue": "이수아"
+          },
+          {
+            "Value": "3",
+            "DisplayValue": "황덕현"
+          }
+        ],
+        "CellDefaultValue": "%Null%"
+      }
+    },
+    "16,16": {
+      "BindingInfo": {
+        "TableName": "천공",
+        "ColumnName": "겉모양측정일",
+        "GUID": "e18669e8-ee26-4660-bfc0-b2f4e48eb03d"
+      },
+      "CellType": {
+        "$type": "Forguncy.DateCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner"
+      }
+    },
+    "18,12": {
+      "BindingInfo": {
+        "TableName": "천공",
+        "ColumnName": "치수측정결과",
+        "GUID": "d425944f-cc47-4a49-970a-7389554004fc"
+      },
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "TemplateKey": "_RS_NewLittleRoundCorner",
+        "CellDefaultValue": "%Null%"
+      }
+    },
+    "18,14": {
+      "BindingInfo": {
+        "TableName": "천공",
+        "ColumnName": "치수측정자",
+        "GUID": "420fd349-9e2c-439f-938f-d7acfe830c88"
+      },
+      "CellType": {
+        "$type": "Forguncy.DropDownListCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner",
+        "Items": [
+          {
+            "Value": "1",
+            "DisplayValue": "김지원"
+          },
+          {
+            "Value": "2",
+            "DisplayValue": "이수아"
+          },
+          {
+            "Value": "3",
+            "DisplayValue": "황덕현"
+          }
+        ],
+        "CellDefaultValue": "%Null%"
+      }
+    },
+    "18,16": {
+      "BindingInfo": {
+        "TableName": "천공",
+        "ColumnName": "치수측정일",
+        "GUID": "ce9d392b-ab2c-4b26-abd7-ed4830ef3b9e"
+      },
+      "CellType": {
+        "$type": "Forguncy.DateCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner"
+      }
+    },
+    "24,12": {
+      "BindingInfo": {
+        "TableName": "세척건조",
+        "ColumnName": "세척건조측정결과",
+        "GUID": "905eeb1a-8fc2-4b64-92f3-613a1ce7c350"
+      },
+      "CellType": {
+        "$type": "Forguncy.RadioGroupCellType, ServerDesignerCommon",
+        "Style": 1,
+        "CellDefaultValue": "%Null%",
+        "Items": [
+          {
+            "Value": "양",
+            "DisplayValue": "양"
+          },
+          {
+            "Value": "불",
+            "DisplayValue": "불"
+          }
+        ]
+      }
+    },
+    "24,14": {
+      "BindingInfo": {
+        "TableName": "세척건조",
+        "ColumnName": "세척건조측정자",
+        "GUID": "7b3d90a6-67cc-4a85-a24a-43ecb41a0fb1"
+      },
+      "CellType": {
+        "$type": "Forguncy.DropDownListCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner",
+        "Items": [
+          {
+            "Value": "1",
+            "DisplayValue": "김지원"
+          },
+          {
+            "Value": "2",
+            "DisplayValue": "이수아"
+          },
+          {
+            "Value": "3",
+            "DisplayValue": "황덕현"
+          }
+        ],
+        "CellDefaultValue": "%Null%"
+      }
+    },
+    "24,16": {
+      "BindingInfo": {
+        "TableName": "세척건조",
+        "ColumnName": "세척건조측정일",
+        "GUID": "dab2828b-7caf-45f6-bc70-7f6855f6824f"
+      },
+      "CellType": {
+        "$type": "Forguncy.DateCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner"
+      }
+    },
+    "25,12": {
+      "BindingInfo": {
+        "TableName": "세척건조",
+        "ColumnName": "건조온도측정결과",
+        "GUID": "641a2734-c2bf-43ac-a7c9-75afb235f513"
+      },
+      "CellType": {
+        "$type": "Forguncy.RadioGroupCellType, ServerDesignerCommon",
+        "Style": 1,
+        "CellDefaultValue": "%Null%",
+        "Items": [
+          {
+            "Value": "양",
+            "DisplayValue": "양"
+          },
+          {
+            "Value": "불",
+            "DisplayValue": "불"
+          }
+        ]
+      }
+    },
+    "25,14": {
+      "BindingInfo": {
+        "TableName": "세척건조",
+        "ColumnName": "건조온도측정자",
+        "GUID": "f39f9348-92e3-4e20-a6d9-39fb6cd663b3"
+      },
+      "CellType": {
+        "$type": "Forguncy.DropDownListCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner",
+        "Items": [
+          {
+            "Value": "1",
+            "DisplayValue": "김지원"
+          },
+          {
+            "Value": "2",
+            "DisplayValue": "이수아"
+          },
+          {
+            "Value": "3",
+            "DisplayValue": "황덕현"
+          }
+        ],
+        "CellDefaultValue": "%Null%"
+      }
+    },
+    "25,16": {
+      "BindingInfo": {
+        "TableName": "세척건조",
+        "ColumnName": "건조온도측정일",
+        "GUID": "00a1cca7-e7e7-4437-a919-35674e582fb6"
+      },
+      "CellType": {
+        "$type": "Forguncy.DateCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner"
+      }
+    },
+    "30,12": {
+      "BindingInfo": {
+        "TableName": "마크표시",
+        "ColumnName": "겉모양측정결과",
+        "GUID": "76f2adc5-1c63-428e-a175-804c43f78873"
+      },
+      "CellType": {
+        "$type": "Forguncy.RadioGroupCellType, ServerDesignerCommon",
+        "Style": 1,
+        "CellDefaultValue": "%Null%",
+        "Items": [
+          {
+            "Value": "양",
+            "DisplayValue": "양"
+          },
+          {
+            "Value": "불",
+            "DisplayValue": "불"
+          }
+        ]
+      }
+    },
+    "30,14": {
+      "BindingInfo": {
+        "TableName": "마크표시",
+        "ColumnName": "겉모양측정자",
+        "GUID": "7557622c-44d1-4791-a181-6308698b66aa"
+      },
+      "CellType": {
+        "$type": "Forguncy.DropDownListCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner",
+        "Items": [
+          {
+            "Value": "1",
+            "DisplayValue": "김지원"
+          },
+          {
+            "Value": "2",
+            "DisplayValue": "이수아"
+          },
+          {
+            "Value": "3",
+            "DisplayValue": "황덕현"
+          }
+        ],
+        "CellDefaultValue": "%Null%"
+      }
+    },
+    "30,16": {
+      "BindingInfo": {
+        "TableName": "마크표시",
+        "ColumnName": "겉모양측정일",
+        "GUID": "55226efc-b719-4db8-bb9b-bd8e2130c236"
+      },
+      "CellType": {
+        "$type": "Forguncy.DateCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner"
+      }
+    },
+    "31,12": {
+      "BindingInfo": {
+        "TableName": "마크표시",
+        "ColumnName": "마크위치측정결과",
+        "GUID": "7420ca3a-fda2-4cfd-90ba-5517573ba5c3"
+      },
+      "CellType": {
+        "$type": "Forguncy.RadioGroupCellType, ServerDesignerCommon",
+        "Style": 1,
+        "CellDefaultValue": "%Null%",
+        "Items": [
+          {
+            "Value": "양",
+            "DisplayValue": "양"
+          },
+          {
+            "Value": "불",
+            "DisplayValue": "불"
+          }
+        ]
+      }
+    },
+    "31,14": {
+      "BindingInfo": {
+        "TableName": "마크표시",
+        "ColumnName": "마크위치측정자",
+        "GUID": "fb823293-8e97-4cf0-843e-8f0cc5fb03c3"
+      },
+      "CellType": {
+        "$type": "Forguncy.DropDownListCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner",
+        "Items": [
+          {
+            "Value": "1",
+            "DisplayValue": "김지원"
+          },
+          {
+            "Value": "2",
+            "DisplayValue": "이수아"
+          },
+          {
+            "Value": "3",
+            "DisplayValue": "황덕현"
+          }
+        ],
+        "CellDefaultValue": "%Null%"
+      }
+    },
+    "31,16": {
+      "BindingInfo": {
+        "TableName": "마크표시",
+        "ColumnName": "마크위치측정일",
+        "GUID": "e2cbdd51-3ea3-4a7f-b909-57ed3e28a879"
+      },
+      "CellType": {
+        "$type": "Forguncy.DateCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner"
+      }
+    },
+    "36,12": {
+      "BindingInfo": {
+        "TableName": "강화",
+        "ColumnName": "가열온도측정결과",
+        "GUID": "46324de5-73c4-4297-95ac-db3a0167fa4f"
+      },
+      "CellType": {
+        "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner"
+      }
+    },
+    "36,14": {
+      "BindingInfo": {
+        "TableName": "강화",
+        "ColumnName": "가열온도측정자",
+        "GUID": "a932f3a6-de8e-42a1-a399-c5deb4e6ff09"
+      },
+      "CellType": {
+        "$type": "Forguncy.DropDownListCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner",
+        "Items": [
+          {
+            "Value": "1",
+            "DisplayValue": "김지원"
+          },
+          {
+            "Value": "2",
+            "DisplayValue": "이수아"
+          },
+          {
+            "Value": "3",
+            "DisplayValue": "황덕현"
+          }
+        ],
+        "CellDefaultValue": "%Null%"
+      }
+    },
+    "36,16": {
+      "BindingInfo": {
+        "TableName": "강화",
+        "ColumnName": "가열온도측정일",
+        "GUID": "b182ba35-0073-42b3-b2a5-d21e817b5de9"
+      },
+      "CellType": {
+        "$type": "Forguncy.DateCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner"
+      }
+    },
+    "37,12": {
+      "BindingInfo": {
+        "TableName": "강화",
+        "ColumnName": "가열시간측정결과",
+        "GUID": "19388f76-920a-4432-a22c-91071a4b7436"
+      },
+      "CellType": {
+        "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner"
+      }
+    },
+    "37,14": {
+      "BindingInfo": {
+        "TableName": "강화",
+        "ColumnName": "가열시간측정자",
+        "GUID": "296dd9cb-3688-46d7-874a-2de94b535a47"
+      },
+      "CellType": {
+        "$type": "Forguncy.DropDownListCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner",
+        "Items": [
+          {
+            "Value": "1",
+            "DisplayValue": "김지원"
+          },
+          {
+            "Value": "2",
+            "DisplayValue": "이수아"
+          },
+          {
+            "Value": "3",
+            "DisplayValue": "황덕현"
+          }
+        ],
+        "CellDefaultValue": "%Null%"
+      }
+    },
+    "37,16": {
+      "BindingInfo": {
+        "TableName": "강화",
+        "ColumnName": "가열시간측정일",
+        "GUID": "1ec6b642-87a9-4b3e-a757-bb7df0b8ce5d"
+      },
+      "CellType": {
+        "$type": "Forguncy.DateCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner"
+      }
+    },
+    "38,12": {
+      "BindingInfo": {
+        "TableName": "강화",
+        "ColumnName": "냉강풍압측정결과",
+        "GUID": "b5cd29fd-6419-4022-9120-5de4be195609"
+      },
+      "CellType": {
+        "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner"
+      }
+    },
+    "38,14": {
+      "BindingInfo": {
+        "TableName": "강화",
+        "ColumnName": "냉강풍압측정자",
+        "GUID": "441c5821-2cf1-4e08-a6a9-3efea949c3d9"
+      },
+      "CellType": {
+        "$type": "Forguncy.DropDownListCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner",
+        "Items": [
+          {
+            "Value": "1",
+            "DisplayValue": "김지원"
+          },
+          {
+            "Value": "2",
+            "DisplayValue": "이수아"
+          },
+          {
+            "Value": "3",
+            "DisplayValue": "황덕현"
+          }
+        ],
+        "CellDefaultValue": "%Null%"
+      }
+    },
+    "38,16": {
+      "BindingInfo": {
+        "TableName": "강화",
+        "ColumnName": "냉강풍압측정일",
+        "GUID": "b5389e00-fe5b-4907-8557-e65177eaee3e"
+      },
+      "CellType": {
+        "$type": "Forguncy.DateCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner"
+      }
+    },
+    "39,12": {
+      "BindingInfo": {
+        "TableName": "강화",
+        "ColumnName": "냉각시간측정결과",
+        "GUID": "aa9c91b3-ba72-48a3-8148-cb271c96e49d"
+      },
+      "CellType": {
+        "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner"
+      }
+    },
+    "39,14": {
+      "BindingInfo": {
+        "TableName": "강화",
+        "ColumnName": "냉각시간측정자",
+        "GUID": "12e763b9-a4ae-4826-8c59-8b1078b6fdd1"
+      },
+      "CellType": {
+        "$type": "Forguncy.DropDownListCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner",
+        "Items": [
+          {
+            "Value": "1",
+            "DisplayValue": "김지원"
+          },
+          {
+            "Value": "2",
+            "DisplayValue": "이수아"
+          },
+          {
+            "Value": "3",
+            "DisplayValue": "황덕현"
+          }
+        ],
+        "CellDefaultValue": "%Null%"
+      }
+    },
+    "39,16": {
+      "BindingInfo": {
+        "TableName": "강화",
+        "ColumnName": "냉각시간측정일",
+        "GUID": "b2853686-b4a1-44f4-8f90-96451c0c63e9"
+      },
+      "CellType": {
+        "$type": "Forguncy.DateCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner"
+      }
+    },
+    "42,7": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.UpdateDataTableCommand, ServerDesignerCommon",
+            "TableName": "천공",
+            "ShowConfirm": false
+          },
+          {
+            "$type": "Forguncy.Model.UpdateDataTableCommand, ServerDesignerCommon",
+            "TableName": "세척건조",
+            "ShowConfirm": false
+          },
+          {
+            "$type": "Forguncy.Model.UpdateDataTableCommand, ServerDesignerCommon",
+            "TableName": "마크표시",
+            "ShowConfirm": false
+          },
+          {
+            "$type": "Forguncy.Model.UpdateDataTableCommand, ServerDesignerCommon",
+            "TableName": "강화",
+            "ShowConfirm": false
+          },
+          {
+            "$type": "Forguncy.Model.ShowMessageCommand, ServerDesignerCommon",
+            "MessageFormula": "정상적으로 저장되었습니다."
+          }
+        ],
+        "Text": "저장",
+        "TemplateKey": "_RS_Main1"
+      }
+    },
+    "42,10": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.ExportPageToPdfCommand, ServerDesignerCommon",
+            "NewOtherName": "",
+            "AutoFitRowHeight": true
+          }
+        ],
+        "Text": "PDF",
+        "TemplateKey": "_RS_Information1"
+      }
+    },
+    "45,3": {
+      "ListViewInfo": {
+        "Name": "리스트뷰1",
+        "TableName": "천공",
+        "RowIndex": 45,
+        "ColumnIndex": 3,
+        "RowCount": 3,
+        "ColumnCount": 3,
+        "SqlCondition": {
+          "$type": "ForguncyDataAccess.GeneralCESqlCondition, ForguncyDataAccess",
+          "ColumnBindingInfo": {
+            "TableName": "천공",
+            "ColumnName": "프로젝트ID",
+            "GUID": "b365fef7-cbb8-40a0-8a01-3cf848e9bce2"
+          },
+          "Value": {
+            "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+            "SerializeProperty": "='2_검사페이지(5~8)'!cell1"
+          }
+        },
+        "TopCondition": null,
+        "ListViewStyleName": "_RS_NewFashionListStyle2",
+        "ShowColumnHeaderInDesigner": true,
+        "ShowEditStatusIcon": true,
+        "UseSimpleBar": true,
+        "ColumnOperation": 2
+      }
+    },
+    "45,6": {
+      "ListViewInfo": {
+        "Name": "리스트뷰2",
+        "TableName": "세척건조",
+        "RowIndex": 45,
+        "ColumnIndex": 6,
+        "RowCount": 3,
+        "ColumnCount": 6,
+        "SqlCondition": {
+          "$type": "ForguncyDataAccess.GeneralCESqlCondition, ForguncyDataAccess",
+          "ColumnBindingInfo": {
+            "TableName": "세척건조",
+            "ColumnName": "프로젝트ID",
+            "GUID": "78566846-f3a5-4a29-83bf-16d27c5e8262"
+          },
+          "Value": {
+            "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+            "SerializeProperty": "='2_검사페이지(5~8)'!cell1"
+          }
+        },
+        "TopCondition": null,
+        "ListViewStyleName": "_RS_NewFashionListStyle2",
+        "ShowColumnHeaderInDesigner": true,
+        "ShowEditStatusIcon": true,
+        "UseSimpleBar": true,
+        "ColumnOperation": 2
+      }
+    },
+    "45,12": {
+      "ListViewInfo": {
+        "Name": "리스트뷰3",
+        "TableName": "마크표시",
+        "RowIndex": 45,
+        "ColumnIndex": 12,
+        "RowCount": 3,
+        "ColumnCount": 2,
+        "SqlCondition": {
+          "$type": "ForguncyDataAccess.GeneralCESqlCondition, ForguncyDataAccess",
+          "ColumnBindingInfo": {
+            "TableName": "마크표시",
+            "ColumnName": "프로젝트ID",
+            "GUID": "62e69990-ec30-4b46-b403-022508c47564"
+          },
+          "Value": {
+            "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+            "SerializeProperty": "='2_검사페이지(5~8)'!cell1"
+          }
+        },
+        "TopCondition": null,
+        "ListViewStyleName": "_RS_NewFashionListStyle2",
+        "ShowColumnHeaderInDesigner": true,
+        "ShowEditStatusIcon": true,
+        "UseSimpleBar": true,
+        "ColumnOperation": 2
+      }
+    },
+    "45,14": {
+      "ListViewInfo": {
+        "Name": "리스트뷰4",
+        "TableName": "강화",
+        "RowIndex": 45,
+        "ColumnIndex": 14,
+        "RowCount": 3,
+        "ColumnCount": 2,
+        "SqlCondition": {
+          "$type": "ForguncyDataAccess.GeneralCESqlCondition, ForguncyDataAccess",
+          "ColumnBindingInfo": {
+            "TableName": "강화",
+            "ColumnName": "프로젝트ID",
+            "GUID": "e3e9e521-2803-4631-83e2-0351f0e95201"
+          },
+          "Value": {
+            "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+            "SerializeProperty": "='2_검사페이지(5~8)'!cell1"
+          }
+        },
+        "TopCondition": null,
+        "ListViewStyleName": "_RS_NewFashionListStyle2",
+        "ShowColumnHeaderInDesigner": true,
+        "ShowEditStatusIcon": true,
+        "UseSimpleBar": true,
+        "ColumnOperation": 2
+      }
+    },
+    "45,16": {
+      "ListViewInfo": {
+        "Name": "리스트뷰5",
+        "TableName": "프로젝트",
+        "RowIndex": 45,
+        "ColumnIndex": 16,
+        "RowCount": 3,
+        "ColumnCount": 3,
+        "SqlCondition": {
+          "$type": "ForguncyDataAccess.GeneralCESqlCondition, ForguncyDataAccess",
+          "ColumnBindingInfo": {
+            "TableName": "프로젝트",
+            "ColumnName": "ID",
+            "GUID": "dbd18004-b794-4c8b-8b1c-29f316959e75"
+          },
+          "Value": {
+            "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+            "SerializeProperty": "='2_검사페이지(5~8)'!cell1"
+          }
+        },
+        "TopCondition": null,
+        "ListViewStyleName": "_RS_NewFashionListStyle2",
+        "ShowColumnHeaderInDesigner": true,
+        "ShowEditStatusIcon": true,
+        "UseSimpleBar": true,
+        "ColumnOperation": 2
+      }
+    },
+    "46,3": {
+      "BindingInfo": {
+        "TableName": "천공",
+        "ColumnName": "ID",
+        "GUID": "85ea46f5-e46e-46ba-bcd5-a31b76e0a41d"
+      }
+    },
+    "46,4": {
+      "BindingInfo": {
+        "TableName": "천공",
+        "ColumnName": "프로젝트ID",
+        "GUID": "207c2c71-9828-4603-8f15-6f8285f4201f"
+      }
+    },
+    "46,6": {
+      "BindingInfo": {
+        "TableName": "세척건조",
+        "ColumnName": "ID",
+        "GUID": "386549bf-3f40-4e18-8cb3-58babd17d37d"
+      }
+    },
+    "46,8": {
+      "BindingInfo": {
+        "TableName": "세척건조",
+        "ColumnName": "프로젝트ID",
+        "GUID": "a66349eb-0978-4549-b769-e5d361cd047b"
+      }
+    },
+    "46,12": {
+      "BindingInfo": {
+        "TableName": "마크표시",
+        "ColumnName": "ID",
+        "GUID": "d93de53c-1c6f-43f9-ba21-cf6f5c0ce52a"
+      }
+    },
+    "46,13": {
+      "BindingInfo": {
+        "TableName": "마크표시",
+        "ColumnName": "프로젝트ID",
+        "GUID": "984731a4-c302-4658-9a58-e228ae88a215"
+      }
+    },
+    "46,14": {
+      "BindingInfo": {
+        "TableName": "강화",
+        "ColumnName": "ID",
+        "GUID": "1a5336b9-f872-4e8b-8d7f-f6f3c7382f79"
+      }
+    },
+    "46,15": {
+      "BindingInfo": {
+        "TableName": "강화",
+        "ColumnName": "프로젝트ID",
+        "GUID": "62601e16-e0f3-40ca-9192-74da16a0c94f"
+      }
+    },
+    "46,16": {
+      "BindingInfo": {
+        "TableName": "프로젝트",
+        "ColumnName": "ID",
+        "GUID": "328fb698-3c72-46fc-bfa1-b4076bbb1461"
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "Background": 0
+      },
+      {
+        "Background": 1
+      },
+      {
+        "FontSize": 14.666666984558105,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false
+      },
+      {
+        "FontSize": 14.666666984558105,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 5,
+        "WordWrap": false,
+        "Strikethrough": false
+      },
+      {
+        "Background": 6,
+        "FontSize": 18.666666666666664,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 8,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false
+      },
+      {
+        "Background": 9
+      },
+      {
+        "Background": 10,
+        "FontSize": 16.0,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 8,
+        "VerticalAlignment": 5,
+        "WordWrap": false,
+        "Strikethrough": false,
+        "BorderBottom": 0,
+        "BorderTop": 0,
+        "BorderLeft": 0,
+        "BorderRight": 0
+      },
+      {
+        "FontSize": 14.666666984558105,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 12,
+        "TextIndent": 0,
+        "HorizontalAlignment": 13,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderBottom": 0,
+        "BorderTop": 0,
+        "BorderLeft": 0
+      },
+      {
+        "BorderBottom": 0,
+        "BorderTop": 0
+      },
+      {
+        "BorderBottom": 0,
+        "BorderTop": 0,
+        "BorderRight": 0
+      },
+      {
+        "Background": 10,
+        "FontSize": 16.0,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 13,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderBottom": 0,
+        "BorderTop": 0,
+        "BorderLeft": 0,
+        "BorderRight": 0
+      },
+      {
+        "FontSize": 14.666666984558105,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 13,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderBottom": 0,
+        "BorderTop": 0,
+        "BorderLeft": 0,
+        "BorderRight": 0
+      },
+      {
+        "FontSize": 14.666666984558105,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 8,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderLeft": 0
+      },
+      {
+        "FontSize": 18.66666603088379,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 8,
+        "VerticalAlignment": 5,
+        "WordWrap": false,
+        "Strikethrough": false,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontSize": 14.666666984558105,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 12,
+        "TextIndent": 0,
+        "HorizontalAlignment": 13,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderLeft": 0
+      },
+      {
+        "FontSize": 18.66666603088379,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 8,
+        "VerticalAlignment": 5,
+        "WordWrap": false,
+        "Strikethrough": false
+      },
+      {
+        "Background": 9,
+        "FontSize": 16.0,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 8,
+        "VerticalAlignment": 5,
+        "WordWrap": false,
+        "Strikethrough": false
+      },
+      {
+        "Background": 9,
+        "FontSize": 14.666666984558105,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 12,
+        "TextIndent": 0,
+        "HorizontalAlignment": 13,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false
+      },
+      {
+        "Background": 9,
+        "FontSize": 16.0,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 13,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false
+      },
+      {
+        "FontSize": 16.0,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 8,
+        "VerticalAlignment": 5,
+        "WordWrap": false,
+        "Strikethrough": false
+      },
+      {
+        "FontSize": 14.666666984558105,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 12,
+        "TextIndent": 0,
+        "HorizontalAlignment": 13,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false
+      },
+      {
+        "FontWeight": 7
+      },
+      {
+        "Formatter": 12
+      },
+      {
+        "FontSize": 14.666666984558105,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 8,
+        "VerticalAlignment": 5,
+        "WordWrap": false,
+        "Strikethrough": false,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 13,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontSize": 18.666666666666664,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": null,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 13,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 13,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false
+      },
+      {
+        "FontSize": 16.0,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 8,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontSize": 14.666666984558105,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 8,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "Background": 14,
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderBottom": 1,
+        "BorderTop": 1,
+        "BorderLeft": 1,
+        "BorderRight": 1
+      },
+      {
+        "BorderBottom": 1,
+        "BorderTop": 1,
+        "BorderLeft": 1,
+        "BorderRight": 1
+      },
+      {
+        "Background": 14,
+        "FontWeight": 7,
+        "HorizontalAlignment": 5,
+        "BorderBottom": 1,
+        "BorderTop": 1,
+        "BorderLeft": 1,
+        "BorderRight": 1
+      },
+      {
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false
+      },
+      {
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderBottom": 1,
+        "BorderTop": 1,
+        "BorderLeft": 1,
+        "BorderRight": 1
+      },
+      {
+        "Background": 0,
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderBottom": 1,
+        "BorderTop": 1,
+        "BorderLeft": 1,
+        "BorderRight": 1
+      },
+      {
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderTop": 1,
+        "BorderLeft": 1
+      },
+      {
+        "BorderTop": 1,
+        "BorderRight": 1
+      },
+      {
+        "BorderTop": 1
+      },
+      {
+        "BorderBottom": 1,
+        "BorderLeft": 1
+      },
+      {
+        "BorderBottom": 1,
+        "BorderRight": 1
+      },
+      {
+        "BorderBottom": 1
+      },
+      {
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 13,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderBottom": 1,
+        "BorderTop": 1,
+        "BorderLeft": 1,
+        "BorderRight": 1
+      },
+      {
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 3,
+        "Formatter": 12,
+        "TextIndent": 0,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderTop": 1,
+        "BorderLeft": 1
+      },
+      {
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false
+      },
+      {
+        "FontSize": 14.666666984558105,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 8,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderBottom": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "Background": 14,
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 3,
+        "Formatter": 4,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderBottom": 1,
+        "BorderTop": 1,
+        "BorderLeft": 1,
+        "BorderRight": 1
+      },
+      {
+        "Background": 0,
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderBottom": 1,
+        "BorderTop": 1,
+        "BorderLeft": 1,
+        "BorderRight": 1
+      },
+      {
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderBottom": 1,
+        "BorderTop": 1,
+        "BorderLeft": 1
+      },
+      {
+        "BorderBottom": 1,
+        "BorderTop": 1,
+        "BorderRight": 1
+      },
+      {
+        "BorderBottom": 1,
+        "BorderTop": 1
+      },
+      {
+        "FontSize": 12.0,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 13,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false
+      },
+      {
+        "FontSize": 12.0,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 16,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false
+      },
+      {
+        "FontSize": 12.0,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false
+      },
+      {
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 12,
+        "TextIndent": 0,
+        "HorizontalAlignment": 13,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false
+      },
+      {
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 8,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false
+      },
+      {
+        "FontSize": 16.0,
+        "FontWeight": 7
+      },
+      {
+        "FontSize": 12.0,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false
+      },
+      {
+        "FontSize": 12.0,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 8,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false
+      },
+      {
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderBottom": 1,
+        "BorderTop": 1,
+        "BorderLeft": 1,
+        "BorderRight": 1
+      },
+      {
+        "Background": 0,
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderBottom": 1,
+        "BorderTop": 1,
+        "BorderLeft": 1,
+        "BorderRight": 1
+      },
+      {
+        "FontSize": 16.0,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 8,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false
+      },
+      {
+        "Background": 17,
+        "FontSize": 12.0,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 13,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false
+      },
+      {
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 12,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderBottom": 1,
+        "BorderTop": 1,
+        "BorderLeft": 1
+      },
+      {
+        "FontSize": 14.666666666666666,
+        "FontWeight": 7
+      },
+      {
+        "FontSize": 18.666666666666664,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 15,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 13,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontSize": 16.0,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": null,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 13,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 13,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false
+      },
+      {
+        "Background": 14,
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false
+      },
+      {
+        "HorizontalAlignment": 5
+      },
+      {
+        "FontFamily": 18,
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false
+      },
+      {
+        "FontFamily": 18,
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 12,
+        "TextIndent": 0,
+        "HorizontalAlignment": 13,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false
+      },
+      {
+        "FontFamily": 18,
+        "FontSize": 13.333333015441895,
+        "FontStyle": 2,
+        "FontWeight": 7,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 5,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false
+      },
+      {
+        "FontSize": 14.666666984558105,
+        "FontStyle": 2,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "Formatter": 4,
+        "TextIndent": 0,
+        "HorizontalAlignment": 13,
+        "VerticalAlignment": 5,
+        "WordWrap": true,
+        "Strikethrough": false,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "Accent 1 80",
+        "#FFFFFF00",
+        "Normal",
+        "#FF000000",
+        "[AUTO]General",
+        "Center",
+        "Accent 1 60",
+        "Bold",
+        "Left",
+        "Background 1 -5",
+        "#FFE5F6FD",
+        "Background 1 -15",
+        "@",
+        "General",
+        "#FFE7E6E6",
+        "black",
+        "Right",
+        "#FFFFFFFF",
+        "맑은 고딕",
+        "Body"
+      ],
+      "Borders": [
+        {
+          "Color": 11
+        },
+        {
+          "Color": 15
+        }
+      ]
+    },
+    "CellStyles": {
+      "0,0": 0,
+      "1,0": 1,
+      "1,3": 2,
+      "1,4": 2,
+      "1,5": 2,
+      "1,6": 2,
+      "1,7": 2,
+      "1,8": 3,
+      "2,2": 0,
+      "2,3": 4,
+      "3,2": 0,
+      "4,2": 5,
+      "4,3": 6,
+      "4,4": 7,
+      "4,5": 8,
+      "4,6": 8,
+      "4,7": 9,
+      "4,8": 5,
+      "4,9": 10,
+      "4,10": 11,
+      "4,11": 11,
+      "4,12": 11,
+      "4,13": 12,
+      "4,19": 5,
+      "4,21": 13,
+      "5,2": 5,
+      "5,3": 6,
+      "5,4": 7,
+      "5,5": 8,
+      "5,6": 8,
+      "5,7": 9,
+      "5,8": 5,
+      "5,9": 10,
+      "5,10": 11,
+      "5,11": 11,
+      "5,12": 11,
+      "5,13": 14,
+      "5,19": 5,
+      "5,21": 15,
+      "6,2": 5,
+      "6,3": 6,
+      "6,4": 7,
+      "6,5": 8,
+      "6,6": 8,
+      "6,7": 9,
+      "6,8": 5,
+      "6,9": 10,
+      "6,10": 11,
+      "6,11": 11,
+      "6,12": 11,
+      "6,13": 14,
+      "6,19": 5,
+      "6,21": 15,
+      "7,2": 5,
+      "7,3": 16,
+      "7,4": 17,
+      "7,5": 17,
+      "7,6": 17,
+      "7,7": 17,
+      "7,8": 5,
+      "7,9": 18,
+      "7,10": 18,
+      "7,11": 18,
+      "7,12": 18,
+      "7,13": 17,
+      "7,14": 17,
+      "7,15": 17,
+      "7,16": 17,
+      "7,17": 17,
+      "7,18": 17,
+      "7,19": 5,
+      "7,21": 15,
+      "8,3": 19,
+      "8,4": 20,
+      "8,5": 20,
+      "8,6": 20,
+      "8,8": 15,
+      "8,9": 21,
+      "8,10": 21,
+      "8,11": 21,
+      "8,12": 21,
+      "8,13": 22,
+      "8,14": 22,
+      "8,15": 22,
+      "8,17": 15,
+      "8,21": 15,
+      "10,3": 23,
+      "10,4": 23,
+      "10,5": 23,
+      "10,6": 23,
+      "10,7": 23,
+      "10,8": 23,
+      "10,9": 24,
+      "10,10": 24,
+      "10,11": 23,
+      "10,12": 24,
+      "10,13": 24,
+      "10,14": 23,
+      "10,15": 24,
+      "10,16": 24,
+      "10,17": 25,
+      "10,18": 24,
+      "10,19": 24,
+      "10,20": 26,
+      "10,21": 23,
+      "10,22": 24,
+      "13,3": 27,
+      "13,4": 28,
+      "13,5": 28,
+      "13,6": 28,
+      "13,7": 28,
+      "13,8": 28,
+      "13,11": 28,
+      "13,14": 28,
+      "13,17": 28,
+      "13,21": 28,
+      "15,3": 29,
+      "15,4": 29,
+      "15,5": 29,
+      "15,6": 29,
+      "15,7": 30,
+      "15,8": 30,
+      "15,9": 30,
+      "15,10": 30,
+      "15,11": 30,
+      "15,12": 31,
+      "15,13": 30,
+      "15,14": 29,
+      "15,15": 29,
+      "15,16": 29,
+      "15,17": 30,
+      "15,18": 30,
+      "15,21": 32,
+      "16,3": 33,
+      "16,4": 33,
+      "16,5": 33,
+      "16,6": 34,
+      "16,7": 30,
+      "16,8": 30,
+      "16,9": 30,
+      "16,10": 30,
+      "16,11": 30,
+      "16,12": 35,
+      "16,13": 36,
+      "16,14": 35,
+      "16,15": 36,
+      "16,16": 35,
+      "16,17": 37,
+      "16,18": 36,
+      "16,19": 32,
+      "16,20": 32,
+      "17,3": 33,
+      "17,4": 33,
+      "17,5": 33,
+      "17,6": 30,
+      "17,7": 30,
+      "17,8": 30,
+      "17,9": 30,
+      "17,10": 30,
+      "17,11": 30,
+      "17,12": 38,
+      "17,13": 39,
+      "17,14": 38,
+      "17,15": 39,
+      "17,16": 38,
+      "17,17": 40,
+      "17,18": 39,
+      "17,19": 32,
+      "17,20": 32,
+      "18,3": 33,
+      "18,4": 33,
+      "18,5": 33,
+      "18,6": 34,
+      "18,7": 41,
+      "18,8": 41,
+      "18,9": 41,
+      "18,10": 41,
+      "18,11": 41,
+      "18,12": 42,
+      "18,13": 36,
+      "18,14": 35,
+      "18,15": 36,
+      "18,16": 35,
+      "18,17": 37,
+      "18,18": 36,
+      "18,19": 32,
+      "18,20": 32,
+      "18,21": 32,
+      "18,22": 26,
+      "19,3": 33,
+      "19,4": 33,
+      "19,5": 33,
+      "19,6": 41,
+      "19,7": 41,
+      "19,8": 41,
+      "19,9": 41,
+      "19,10": 41,
+      "19,11": 41,
+      "19,12": 38,
+      "19,13": 39,
+      "19,14": 38,
+      "19,15": 39,
+      "19,16": 38,
+      "19,17": 40,
+      "19,18": 39,
+      "19,19": 32,
+      "19,20": 32,
+      "19,21": 32,
+      "19,22": 32,
+      "20,3": 43,
+      "20,4": 43,
+      "20,5": 43,
+      "20,6": 32,
+      "20,7": 32,
+      "20,8": 32,
+      "20,9": 32,
+      "20,10": 32,
+      "20,11": 32,
+      "20,12": 32,
+      "20,13": 32,
+      "20,14": 32,
+      "20,15": 32,
+      "20,16": 32,
+      "20,17": 32,
+      "20,18": 32,
+      "20,19": 32,
+      "20,20": 32,
+      "20,21": 32,
+      "20,22": 32,
+      "21,3": 27,
+      "21,4": 28,
+      "21,5": 28,
+      "21,6": 28,
+      "21,7": 28,
+      "21,8": 28,
+      "21,11": 28,
+      "21,14": 28,
+      "21,17": 28,
+      "21,21": 44,
+      "23,3": 29,
+      "23,4": 41,
+      "23,5": 41,
+      "23,6": 29,
+      "23,7": 41,
+      "23,8": 41,
+      "23,9": 41,
+      "23,10": 41,
+      "23,11": 41,
+      "23,12": 45,
+      "23,13": 41,
+      "23,14": 29,
+      "23,15": 29,
+      "23,16": 29,
+      "23,17": 41,
+      "23,18": 41,
+      "23,19": 32,
+      "23,20": 32,
+      "23,21": 32,
+      "24,3": 33,
+      "24,4": 41,
+      "24,5": 41,
+      "24,6": 46,
+      "24,7": 41,
+      "24,8": 41,
+      "24,9": 41,
+      "24,10": 41,
+      "24,11": 41,
+      "24,12": 47,
+      "24,13": 48,
+      "24,14": 47,
+      "24,15": 48,
+      "24,16": 47,
+      "24,17": 49,
+      "24,18": 48,
+      "24,19": 32,
+      "24,20": 32,
+      "24,21": 32,
+      "25,3": 33,
+      "25,4": 41,
+      "25,5": 41,
+      "25,6": 46,
+      "25,7": 30,
+      "25,8": 30,
+      "25,9": 30,
+      "25,10": 30,
+      "25,11": 30,
+      "25,12": 47,
+      "25,13": 48,
+      "25,14": 47,
+      "25,15": 48,
+      "25,16": 47,
+      "25,17": 49,
+      "25,18": 48,
+      "25,19": 50,
+      "25,20": 50,
+      "25,21": 51,
+      "25,22": 51,
+      "26,3": 26,
+      "26,4": 52,
+      "26,5": 26,
+      "26,6": 26,
+      "26,7": 26,
+      "26,8": 26,
+      "26,9": 26,
+      "26,10": 26,
+      "26,11": 26,
+      "26,12": 53,
+      "26,13": 26,
+      "26,14": 32,
+      "26,15": 26,
+      "26,16": 32,
+      "26,17": 26,
+      "26,18": 26,
+      "26,19": 54,
+      "26,20": 54,
+      "26,21": 32,
+      "27,3": 55,
+      "27,4": 56,
+      "27,12": 53,
+      "27,19": 57,
+      "27,20": 57,
+      "27,21": 32,
+      "28,4": 56,
+      "28,12": 53,
+      "28,19": 57,
+      "28,20": 57,
+      "28,21": 32,
+      "29,3": 29,
+      "29,4": 41,
+      "29,5": 41,
+      "29,6": 29,
+      "29,7": 41,
+      "29,8": 41,
+      "29,9": 41,
+      "29,10": 41,
+      "29,11": 41,
+      "29,12": 45,
+      "29,13": 41,
+      "29,14": 29,
+      "29,15": 29,
+      "29,16": 29,
+      "29,17": 41,
+      "29,18": 41,
+      "29,19": 54,
+      "29,20": 54,
+      "29,21": 32,
+      "30,3": 33,
+      "30,4": 58,
+      "30,5": 30,
+      "30,6": 59,
+      "30,7": 41,
+      "30,8": 41,
+      "30,9": 41,
+      "30,10": 41,
+      "30,11": 41,
+      "30,12": 47,
+      "30,13": 48,
+      "30,14": 47,
+      "30,15": 48,
+      "30,16": 47,
+      "30,17": 49,
+      "30,18": 48,
+      "31,3": 30,
+      "31,4": 58,
+      "31,5": 30,
+      "31,6": 59,
+      "31,7": 41,
+      "31,8": 41,
+      "31,9": 41,
+      "31,10": 41,
+      "31,11": 41,
+      "31,12": 47,
+      "31,13": 48,
+      "31,14": 47,
+      "31,15": 48,
+      "31,16": 47,
+      "31,17": 49,
+      "31,18": 48,
+      "32,3": 32,
+      "32,4": 26,
+      "32,5": 26,
+      "32,6": 32,
+      "32,7": 26,
+      "32,8": 26,
+      "32,9": 26,
+      "32,10": 26,
+      "32,11": 26,
+      "32,12": 26,
+      "32,13": 26,
+      "32,14": 26,
+      "32,15": 26,
+      "32,16": 26,
+      "32,17": 26,
+      "32,18": 26,
+      "33,3": 60,
+      "33,4": 54,
+      "33,5": 54,
+      "33,6": 61,
+      "33,7": 26,
+      "33,8": 26,
+      "33,9": 26,
+      "33,10": 26,
+      "33,11": 26,
+      "33,12": 32,
+      "33,13": 26,
+      "33,14": 32,
+      "33,15": 26,
+      "33,16": 32,
+      "33,17": 26,
+      "33,18": 26,
+      "34,3": 43,
+      "34,4": 43,
+      "34,5": 26,
+      "34,6": 26,
+      "34,7": 26,
+      "34,8": 26,
+      "34,9": 26,
+      "34,10": 26,
+      "34,11": 26,
+      "34,12": 53,
+      "34,13": 26,
+      "34,14": 32,
+      "34,15": 26,
+      "34,16": 32,
+      "34,17": 26,
+      "34,18": 26,
+      "35,3": 29,
+      "35,4": 41,
+      "35,5": 41,
+      "35,6": 29,
+      "35,7": 41,
+      "35,8": 41,
+      "35,9": 41,
+      "35,10": 41,
+      "35,11": 41,
+      "35,12": 45,
+      "35,13": 41,
+      "35,14": 29,
+      "35,15": 29,
+      "35,16": 29,
+      "35,17": 41,
+      "35,18": 41,
+      "36,3": 58,
+      "36,4": 30,
+      "36,5": 30,
+      "36,6": 46,
+      "36,7": 30,
+      "36,8": 30,
+      "36,9": 30,
+      "36,10": 30,
+      "36,11": 30,
+      "36,12": 62,
+      "36,13": 48,
+      "36,14": 47,
+      "36,15": 48,
+      "36,16": 47,
+      "36,17": 49,
+      "36,18": 48,
+      "37,3": 58,
+      "37,4": 41,
+      "37,5": 41,
+      "37,6": 30,
+      "37,7": 30,
+      "37,8": 30,
+      "37,9": 30,
+      "37,10": 30,
+      "37,11": 30,
+      "37,12": 62,
+      "37,13": 48,
+      "37,14": 47,
+      "37,15": 48,
+      "37,16": 47,
+      "37,17": 49,
+      "37,18": 48,
+      "38,3": 58,
+      "38,4": 30,
+      "38,5": 30,
+      "38,6": 30,
+      "38,7": 30,
+      "38,8": 30,
+      "38,9": 30,
+      "38,10": 30,
+      "38,11": 30,
+      "38,12": 62,
+      "38,13": 48,
+      "38,14": 47,
+      "38,15": 48,
+      "38,16": 47,
+      "38,17": 49,
+      "38,18": 48,
+      "39,3": 58,
+      "39,4": 30,
+      "39,5": 30,
+      "39,6": 30,
+      "39,7": 30,
+      "39,8": 30,
+      "39,9": 30,
+      "39,10": 30,
+      "39,11": 30,
+      "39,12": 62,
+      "39,13": 48,
+      "39,14": 47,
+      "39,15": 48,
+      "39,16": 47,
+      "39,17": 49,
+      "39,18": 48,
+      "40,6": 26,
+      "40,7": 26,
+      "40,8": 26,
+      "40,9": 26,
+      "40,10": 26,
+      "40,11": 26,
+      "40,12": 32,
+      "40,13": 26,
+      "40,14": 32,
+      "40,15": 26,
+      "40,16": 32,
+      "40,17": 26,
+      "40,18": 26,
+      "41,14": 32,
+      "41,15": 32,
+      "41,16": 26,
+      "41,17": 26,
+      "41,18": 26,
+      "42,3": 63,
+      "42,7": 64,
+      "42,8": 24,
+      "42,9": 24,
+      "42,10": 65,
+      "42,11": 24,
+      "42,14": 32,
+      "42,15": 32,
+      "42,16": 26,
+      "42,17": 26,
+      "42,18": 26,
+      "43,14": 32,
+      "43,15": 32,
+      "43,16": 26,
+      "43,17": 26,
+      "43,18": 26,
+      "44,3": 32,
+      "44,4": 26,
+      "44,5": 26,
+      "44,6": 32,
+      "44,7": 26,
+      "44,8": 26,
+      "44,9": 26,
+      "44,10": 26,
+      "44,11": 26,
+      "44,12": 66,
+      "44,13": 26,
+      "44,14": 32,
+      "44,15": 67,
+      "44,16": 32,
+      "44,17": 26,
+      "44,18": 26,
+      "45,3": 32,
+      "45,6": 32,
+      "45,8": 32,
+      "45,12": 26,
+      "45,14": 32,
+      "45,15": 32,
+      "45,16": 32,
+      "46,3": 68,
+      "46,12": 32,
+      "46,14": 32,
+      "46,15": 26,
+      "46,16": 32,
+      "47,3": 69,
+      "47,4": 52,
+      "47,5": 26,
+      "47,12": 70,
+      "47,13": 26,
+      "47,14": 71,
+      "47,15": 26,
+      "47,16": 71,
+      "47,17": 26,
+      "47,18": 26
+    },
+    "RowStyles": {
+      "1": 72,
+      "2": 72,
+      "3": 72,
+      "4": 72,
+      "5": 72,
+      "6": 72,
+      "7": 72,
+      "8": 72
+    },
+    "ColStyles": {
+      "2": 24,
+      "3": 24,
+      "4": 24,
+      "5": 24,
+      "6": 24,
+      "7": 24,
+      "8": 24,
+      "9": 24,
+      "10": 24,
+      "11": 24,
+      "12": 24,
+      "13": 24,
+      "14": 24,
+      "15": 24,
+      "16": 24,
+      "17": 24,
+      "18": 24,
+      "19": 24,
+      "20": 24,
+      "21": 24,
+      "22": 24
+    },
+    "SheetStyle": {
+      "FontFamily": 19,
+      "FontSize": 14.666666984558105,
+      "FontStyle": 2,
+      "FontWeight": 2,
+      "Foreground": 3,
+      "Formatter": 4,
+      "TextIndent": 0,
+      "HorizontalAlignment": 13,
+      "VerticalAlignment": 5,
+      "WordWrap": false,
+      "Strikethrough": false,
+      "BorderBottom": null,
+      "BorderTop": null,
+      "BorderLeft": null,
+      "BorderRight": null
+    }
+  },
+  "Spans": [
+    "15,3,1,3",
+    "16,3,2,3",
+    "23,21,1,2",
+    "24,21,1,2",
+    "25,21,1,2",
+    "26,21,1,2",
+    "27,21,1,2",
+    "28,21,1,2",
+    "29,21,1,2",
+    "18,3,2,3",
+    "15,6,1,6",
+    "16,6,2,6",
+    "18,6,2,6",
+    "15,12,1,2",
+    "15,14,1,2",
+    "15,16,1,3",
+    "44,3,1,3",
+    "44,6,1,6",
+    "44,16,1,3",
+    "4,9,1,4",
+    "5,9,1,4",
+    "6,9,1,4",
+    "23,3,1,3",
+    "23,6,1,6",
+    "23,12,1,2",
+    "23,14,1,2",
+    "23,16,1,3",
+    "24,6,1,6",
+    "24,3,1,3",
+    "25,3,1,3",
+    "25,6,1,6",
+    "29,3,1,3",
+    "29,6,1,6",
+    "29,12,1,2",
+    "29,14,1,2",
+    "29,16,1,3",
+    "30,6,1,6",
+    "31,6,1,6",
+    "30,3,2,1",
+    "30,4,1,2",
+    "31,4,1,2",
+    "35,3,1,3",
+    "35,6,1,6",
+    "35,12,1,2",
+    "35,14,1,2",
+    "35,16,1,3",
+    "36,3,1,3",
+    "37,3,1,3",
+    "38,3,1,3",
+    "39,3,1,3",
+    "36,6,4,6",
+    "42,10,1,2",
+    "16,12,2,2",
+    "16,14,2,2",
+    "16,16,2,3",
+    "18,12,2,2",
+    "18,14,2,2",
+    "18,16,2,3",
+    "24,12,1,2",
+    "24,14,1,2",
+    "24,16,1,3",
+    "25,12,1,2",
+    "25,14,1,2",
+    "25,16,1,3",
+    "30,12,1,2",
+    "30,14,1,2",
+    "30,16,1,3",
+    "31,12,1,2",
+    "31,14,1,2",
+    "31,16,1,3",
+    "36,12,1,2",
+    "36,14,1,2",
+    "36,16,1,3",
+    "37,12,1,2",
+    "37,14,1,2",
+    "37,16,1,3",
+    "38,12,1,2",
+    "38,14,1,2",
+    "38,16,1,3",
+    "39,12,1,2",
+    "39,14,1,2",
+    "39,16,1,3",
+    "46,4,1,2",
+    "46,6,1,2",
+    "46,8,1,4",
+    "44,12,1,2",
+    "44,14,1,2",
+    "46,16,1,3",
+    "4,4,1,4",
+    "5,4,1,4",
+    "6,4,1,4",
+    "4,13,1,6",
+    "5,13,1,6",
+    "6,13,1,6",
+    "47,16,1,3",
+    "47,14,1,2",
+    "47,12,1,2",
+    "47,6,1,6",
+    "47,3,1,3",
+    "10,17,1,2",
+    "2,3,2,17",
+    "45,4,1,2",
+    "45,6,1,2",
+    "45,8,1,4",
+    "45,16,1,3"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "MasterPageName": "공정관리마스터페이지",
+    "PermissionData": {
+      "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionData, Forguncy.RbacPermission.Core",
+      "permissionResource": {
+        "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionResource, Forguncy.RbacPermission.Core"
+      },
+      "permissionBindings": [
+        {
+          "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionBinding, Forguncy.RbacPermission.Core",
+          "roleNames": [
+            "FGC_LoginUser",
+            "FGC_Anonymous"
+          ]
+        }
+      ]
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": [],
+    "RelatedDataTableName": "프로젝트"
+  },
+  "PrintInfo": {
+    "ColumnStart": 3,
+    "ColumnEnd": 18,
+    "RowStart": 12,
+    "RowEnd": 41,
+    "ZoomFactor": 0.5999999999999996,
+    "PaperSize": {},
+    "ShowColumnHeader": 1,
+    "ShowRowHeader": 1,
+    "Orientation": 2,
+    "Margin": {},
+    "PageOrder": 1
+  },
+  "CustomNames": [
+    {
+      "Name": "cell1",
+      "Formula": "'2_검사페이지(5~8)'!$A$1"
+    },
+    {
+      "Name": "menu",
+      "Formula": "'2_검사페이지(5~8)'!$A$2"
+    }
+  ]
+}//ys4wnYN/5tdKSfKKbQ0nOprVwTAFo5GkO2TKsLosSwm96y03dXUKT40iRI7dD1SmF3T+vSsMK7icSyw2KoGMIVlfk53qHB1U1yALvsYt/TGkyDOyJFENct3i8Lrq6f53norMITIKs2Y4qsyCXsBnUlU5l0ItZhsaQu96ju1GByYvIk1lEzAKGavXObYrGNTxT25Lb6U1rUZEKaHru3M8FfSKJt+E8RJvy99x+7PSjjAIiD2p+LttykLc+hb3A0hUzW1gmUoCR+sKuytGBdq+kBOuunohmPJt69c9LDMmfPVP9v6RH7qrVDwlgtskQ/JfTj5dmrkxpReypqaMOT32b19zJu6oqvEDlK+xF9z3cPYF0TFMMzVhx5dq6CvBhRH9+j3XPBhmJu0irg+lUsRqO/nyDoxoLBl33tQ1piNrjAjc4LAWRBZoBiyoUA8OLgv624YA93AE4OBjGR1BJC5t89lh68csbS8KNJMAuqEdR+ud4viSzOVbhxd0c3gFPR7R6nAZ+966sVZtj0Y71B2L3jtmJB1mlEtWqnoRILr9uw0PogxYzxXb9hNJjp6cSsLfJxPmkMieMwF37S594fuUppzu6KESb4ORdJQpAmNrvQy6URcvb57+GSOr+YynP1BwYn66/JsmIJsbUL5Q1X6nDI1B/NGqg8N0J90LznpsEE1z3dKi1dUmV8tB3BJoVubP/YunBix/klm8lFyvpkvMCFWhmWHK2bbYYHj/4MPnIEereGiCIdGPv2jGcWmbQ2fYtedUVeorDCr1X+eWvFEeDco+PPtewjmW+YD050VKpXF8rYbRydYnz45h9zq+pM+RpORn4JCon4qjC+zdHMKjqR41xznZyZ9CdGlt0GxA9YhPgGTR4GMELYWkEewC/t5lcNCUcXfmQJJaCNjcBh3yhw==|920

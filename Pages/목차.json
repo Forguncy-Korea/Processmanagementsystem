@@ -1,0 +1,145 @@
+{
+  "Rows": {
+    "RowColumnAttachedInfos": {
+      "2": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 29.0
+        }
+      },
+      "4": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 28.0
+        }
+      },
+      "5": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 28.0
+        }
+      },
+      "6": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 28.0
+        }
+      }
+    },
+    "Count": 45
+  },
+  "Cols": {
+    "Count": 60
+  },
+  "Values": {
+    "2,1": "목차",
+    "4,1": "1. 원재료검사/수입검사/절단/면연마",
+    "5,1": "2. 천공/세척건조/마크표시/강화",
+    "6,1": "3. 제품검사/포장제품입고"
+  },
+  "AttachInfos": {
+    "4,1": {
+      "CellType": {
+        "$type": "Forguncy.HyperlinkCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+            "PageName": "1_검사페이지(1~4)"
+          }
+        ],
+        "Text": "1. 원재료검사/수입검사/절단/면연마",
+        "ClickMode": 1
+      }
+    },
+    "5,1": {
+      "CellType": {
+        "$type": "Forguncy.HyperlinkCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+            "PageName": "2_검사페이지(5~8)"
+          }
+        ],
+        "Text": "2. 천공/세척건조/마크표시/강화",
+        "ClickMode": 1
+      }
+    },
+    "6,1": {
+      "CellType": {
+        "$type": "Forguncy.HyperlinkCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+            "PageName": "3_검사페이지(9~10)"
+          }
+        ],
+        "Text": "3. 제품검사/포장제품입고",
+        "ClickMode": 1
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "FontFamily": 0,
+        "FontSize": 18.666666666666664,
+        "FontWeight": 1,
+        "Formatter": 2
+      },
+      {
+        "FontFamily": 0
+      },
+      {
+        "FontFamily": 0,
+        "FontSize": 16.0,
+        "Foreground": 3,
+        "Formatter": 2,
+        "Underline": true
+      },
+      {
+        "FontSize": 16.0,
+        "Foreground": 3,
+        "Underline": true
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "Body",
+        "Bold",
+        "[AUTO]General",
+        "Blue"
+      ]
+    },
+    "CellStyles": {
+      "2,1": 0,
+      "3,1": 1,
+      "4,1": 2,
+      "5,1": 3,
+      "6,1": 3
+    },
+    "SheetStyle": {
+      "FontFamily": 0
+    }
+  },
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "MasterPageName": "공정관리마스터페이지",
+    "PermissionData": {
+      "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionData, Forguncy.RbacPermission.Core",
+      "permissionResource": {
+        "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionResource, Forguncy.RbacPermission.Core"
+      },
+      "permissionBindings": [
+        {
+          "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionBinding, Forguncy.RbacPermission.Core",
+          "roleNames": [
+            "FGC_LoginUser",
+            "FGC_Anonymous"
+          ]
+        }
+      ]
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
+  },
+  "PrintInfo": {
+    "PaperSize": {},
+    "Margin": {}
+  }
+}//gioppHEeVeK9+RQCJVlO2osRPTwXz6xgt7PQgIHrcj4jj8AFgTFzITaHpp6V7/7QjJtrh+wTHYNq6CKKpvA71CI0rG28Bn1c0ymMXoCrtn7cLeHTcFe5e1F8uPYzxLA1uZPUphZNPpI733kQifK6k4MksrCYv8+/EQYOosNYueGpQR0fykwINmTwtamofcSacQn2Nw6IP8sfXqdErm/SXHaHQwvk5tMm3UUEvrpIEUXhpEdEzh925+cK/0qN40nFj/Fw/LTC/tCm/aeQHivZpPqnBvtRlC1IJv+VDD19bWcHZxYi9zK2y4p91EIurlJ7pLQQbZZ24r8iBo3EVCUJyuS7IV4Lpp/wqV3qJKxumocGaXPQS1DEQTPfCCpYqY9usbBbC6z7MvnSlQM4xH+qaFjeIXOgjOdGWcQXPUJ26i20j470V6MIOfqYiLGuguJ+VkIroUcHqRF5ZC2OmwtZqu9qWrM40EzxwR7uif+FNmngiP9zhSxrR4kOrKRrubls+7PC81LjTDlG3xjXW1cEDT5pg9yjdqK83Ajct18BfWsK6cgrD42TVM+VS9VGgnuPXNLK4g05kUcz2YLF36naxzPOkaLIXPHmkJYK63itZ7zIfNGascXpkb/S7JspjlQlNifWTQOCR1b0ojfLYczsc5O/5aMQGvgvkorhG9y5ZGDKBf/vyRzrb7HqZAHeyGcNY8o/0yp2Z2dD4wgcY93+Th0NvmhTZnMq8/oey4vV9YqeVmAO99nRMY2m03/Vmf2ugKdR/9/9AKL8VQzAF12+19/MEYKrgD/irU76J4RDIytEpci1++hP9kpAic15u+2rgyYlOtEgkfTD3POQykug4q3xSGWWdI+Jv3ZkPXBGC3ort1oZxElkl3yr0hwhPnWCe+fd6+inT6WR90+KDDCzWw==|920

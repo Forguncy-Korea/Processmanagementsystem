@@ -1,0 +1,516 @@
+{
+  "Rows": {
+    "RowColumnAttachedInfos": {
+      "2": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 24.0
+        }
+      },
+      "3": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 23.0
+        }
+      },
+      "5": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 34.0
+        }
+      },
+      "7": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 32.0
+        }
+      },
+      "9": {}
+    },
+    "InVisibleIndexes": [
+      9
+    ],
+    "Count": 54
+  },
+  "Cols": {
+    "RowColumnAttachedInfos": {
+      "0": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 100.0
+          }
+        }
+      },
+      "2": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 13.0
+        }
+      },
+      "18": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 14.0
+        }
+      },
+      "27": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 21.0
+        }
+      },
+      "28": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 6.0
+        }
+      },
+      "29": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 7.0
+        }
+      },
+      "94": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 100.0
+          }
+        }
+      }
+    },
+    "Count": 95
+  },
+  "Values": {
+    "1,2": "MESCIUS",
+    "1,10": "공정관리시스템 ",
+    "1,20": "프로젝트 파일 다운로드",
+    "5,3": "프로젝트",
+    "5,25": "조회",
+    "5,30": "프로젝트추가"
+  },
+  "Formulas": {
+    "5,8": "cell1",
+    "7,3": "menu"
+  },
+  "AttachInfos": {
+    "1,10": {
+      "CellType": {
+        "$type": "Forguncy.HyperlinkCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+            "PageName": "1_검사페이지(1~4)"
+          }
+        ],
+        "Text": "공정관리시스템 ",
+        "ClickMode": 1
+      }
+    },
+    "1,20": {
+      "CellType": {
+        "$type": "Forguncy.HyperlinkCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+            "URL": "https://cdn.mescius.co.kr/samples/forguncy/공정관리시스템.fgko"
+          }
+        ],
+        "Text": "프로젝트 파일 다운로드",
+        "ClickMode": 1
+      }
+    },
+    "5,8": {
+      "CellType": {
+        "$type": "Forguncy.DropDownListCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_NewLittleRoundCorner",
+        "IsBounding": true,
+        "DataSource": "프로젝트",
+        "ValueColumnBindingInfo": {
+          "TableName": "프로젝트",
+          "ColumnName": "ID",
+          "GUID": "f4f30799-8ef9-47b4-9d9f-e41b3b56a3e4"
+        },
+        "DisplayColumnBindingInfo": {
+          "TableName": "프로젝트",
+          "ColumnName": "제품코드",
+          "GUID": "9b92065e-d770-4d46-9d34-4b2b697a4271"
+        },
+        "CacheSetting": {}
+      }
+    },
+    "5,25": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.UpdateDataTableCommand, ServerDesignerCommon",
+            "TableName": "페이지",
+            "ShowConfirm": false,
+            "RowsToUpdate": 1,
+            "RowsToUpdateCondition": {
+              "$type": "ForguncyDataAccess.GeneralCESqlCondition, ForguncyDataAccess",
+              "ColumnBindingInfo": {
+                "TableName": "페이지",
+                "ColumnName": "ID",
+                "GUID": "547281a6-0432-4501-b14d-0c32bb79c412"
+              },
+              "Value": "1"
+            },
+            "UpdateBindingValues": [
+              {
+                "BindingInfo": {
+                  "TableName": "페이지",
+                  "ColumnName": "_1페이지",
+                  "GUID": "8df072d9-73ed-4899-845b-0f3bd67bb6a2"
+                },
+                "Value": {
+                  "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+                  "SerializeProperty": "=공정관리마스터페이지!I6"
+                }
+              },
+              {
+                "BindingInfo": {
+                  "TableName": "페이지",
+                  "ColumnName": "_2페이지",
+                  "GUID": "49770c1c-88c7-48af-85f0-85f5d3584c7a"
+                },
+                "Value": {
+                  "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+                  "SerializeProperty": "=공정관리마스터페이지!I6"
+                }
+              },
+              {
+                "BindingInfo": {
+                  "TableName": "페이지",
+                  "ColumnName": "_3페이지",
+                  "GUID": "41fd53f9-6478-4e7c-b1ac-2cfe32563098"
+                },
+                "Value": {
+                  "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+                  "SerializeProperty": "=공정관리마스터페이지!I6"
+                }
+              }
+            ]
+          },
+          {
+            "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+            "PageName": "1_검사페이지(1~4)"
+          }
+        ],
+        "Text": "조회",
+        "TemplateKey": "_RS_Main1"
+      }
+    },
+    "5,30": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.ShowPopupCommand, ServerDesignerCommon",
+            "PageName": "신규프로젝트"
+          }
+        ],
+        "Text": "프로젝트추가",
+        "TemplateKey": "_RS_Main3"
+      }
+    },
+    "7,3": {
+      "CellType": {
+        "$type": "Forguncy.CustomMenu.ForguncyMenuCellType, Forguncy.CustomMenu",
+        "TemplateKey": "_RS_NewMenuLight",
+        "Items": [
+          {
+            "Value": "목차",
+            "Text": "목차",
+            "SelectedIconColor": "Background 1",
+            "SelectedIconColorUseItemColor": true,
+            "IconColorUseItemColor": true,
+            "IsOldMenuPath": false,
+            "CommandList": [
+              {
+                "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                "PageName": "목차"
+              }
+            ],
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ]
+          },
+          {
+            "Text": "원재료검사",
+            "SelectedIconColor": "Background 1",
+            "SelectedIconColorUseItemColor": true,
+            "IconColorUseItemColor": true,
+            "IsOldMenuPath": false,
+            "CommandList": [
+              {
+                "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                "PageName": "1_검사페이지(1~4)",
+                "PassValues": [
+                  {
+                    "Source": {
+                      "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+                      "SerializeProperty": "=공정관리마스터페이지!I6"
+                    },
+                    "TargetCell": {
+                      "SerializeProperty": "='1_검사페이지(1~4)'!cell1"
+                    }
+                  },
+                  {
+                    "Source": {
+                      "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+                      "SerializeProperty": "=1"
+                    },
+                    "TargetCell": {
+                      "SerializeProperty": "='1_검사페이지(1~4)'!menu"
+                    }
+                  }
+                ],
+                "LoadBindingDataOption": 1
+              }
+            ],
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ]
+          },
+          {
+            "Value": "천공검사",
+            "Text": "천공검사",
+            "SelectedIconColor": "Background 1",
+            "SelectedIconColorUseItemColor": true,
+            "IconColorUseItemColor": true,
+            "IsOldMenuPath": false,
+            "CommandList": [
+              {
+                "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                "PageName": "2_검사페이지(5~8)",
+                "PassValues": [
+                  {
+                    "Source": {
+                      "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+                      "SerializeProperty": "=공정관리마스터페이지!I6"
+                    },
+                    "TargetCell": {
+                      "SerializeProperty": "='2_검사페이지(5~8)'!cell1"
+                    }
+                  },
+                  {
+                    "Source": {
+                      "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+                      "SerializeProperty": "=2"
+                    },
+                    "TargetCell": {
+                      "SerializeProperty": "='2_검사페이지(5~8)'!menu"
+                    }
+                  }
+                ]
+              }
+            ],
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ]
+          },
+          {
+            "Value": "제품검사",
+            "Text": "제품검사",
+            "SelectedIconColor": "Background 1",
+            "SelectedIconColorUseItemColor": true,
+            "IconColorUseItemColor": true,
+            "IsOldMenuPath": false,
+            "CommandList": [
+              {
+                "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                "PageName": "3_검사페이지(9~10)",
+                "PassValues": [
+                  {
+                    "Source": {
+                      "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+                      "SerializeProperty": "=공정관리마스터페이지!I6"
+                    },
+                    "TargetCell": {
+                      "SerializeProperty": "='3_검사페이지(9~10)'!cell1"
+                    }
+                  },
+                  {
+                    "Source": {
+                      "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+                      "SerializeProperty": "=3"
+                    },
+                    "TargetCell": {
+                      "SerializeProperty": "='3_검사페이지(9~10)'!menu"
+                    }
+                  }
+                ]
+              }
+            ],
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ]
+          }
+        ],
+        "Orientation": 0,
+        "MenuLevelsStyle": [
+          {
+            "FontSize": 14.66,
+            "Bold": false,
+            "Height": 45.0,
+            "IconHeight": 24.0,
+            "IconWidth": 24.0
+          },
+          {
+            "FontSize": 13.33,
+            "Bold": false,
+            "Height": 40.0,
+            "IconHeight": 24.0,
+            "IconWidth": 24.0
+          }
+        ]
+      }
+    },
+    "10,1": {
+      "IsPlaceHolderCell": true
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "FontFamily": 0,
+        "FontSize": 21.333333333333332,
+        "FontWeight": 1,
+        "Foreground": 2
+      },
+      {
+        "FontFamily": 0,
+        "FontSize": 24.0,
+        "Foreground": 2,
+        "Underline": false
+      },
+      {
+        "Background": 3,
+        "FontFamily": 4,
+        "FontSize": 16.0,
+        "FontWeight": 1,
+        "Foreground": 2,
+        "Underline": false
+      },
+      {
+        "FontFamily": 4,
+        "FontWeight": 1
+      },
+      {
+        "FontFamily": 4
+      },
+      {
+        "FontFamily": 4,
+        "Formatter": 5
+      },
+      {
+        "FontFamily": 4,
+        "HorizontalAlignment": 6
+      },
+      {
+        "Background": 3
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "나눔스퀘어 네오 OTF Heavy",
+        "Bold",
+        "Text 1 25",
+        "Text 2 80",
+        "Body",
+        "[AUTO]General",
+        "Center"
+      ]
+    },
+    "CellStyles": {
+      "1,2": 0,
+      "1,10": 1,
+      "1,20": 2,
+      "5,3": 3,
+      "5,4": 4,
+      "5,5": 4,
+      "5,6": 4,
+      "5,7": 4,
+      "5,8": 4,
+      "5,9": 4,
+      "5,10": 4,
+      "5,11": 4,
+      "5,12": 4,
+      "5,13": 4,
+      "5,14": 4,
+      "5,15": 4,
+      "5,16": 4,
+      "5,17": 4,
+      "5,18": 4,
+      "5,19": 4,
+      "5,20": 4,
+      "5,21": 4,
+      "5,22": 4,
+      "5,23": 4,
+      "5,24": 4,
+      "5,25": 4,
+      "5,26": 4,
+      "5,27": 4,
+      "5,28": 4,
+      "5,29": 4,
+      "5,30": 5,
+      "5,31": 4,
+      "5,32": 4,
+      "5,33": 4,
+      "5,34": 4,
+      "5,35": 4,
+      "5,36": 4,
+      "5,37": 4,
+      "7,3": 6,
+      "7,4": 4,
+      "7,5": 4,
+      "7,6": 4,
+      "7,7": 4,
+      "7,8": 4,
+      "7,9": 4,
+      "7,10": 4,
+      "7,11": 4,
+      "7,12": 4,
+      "7,13": 4,
+      "7,14": 4,
+      "7,15": 4,
+      "7,16": 4,
+      "7,17": 4,
+      "7,18": 4,
+      "7,19": 4,
+      "7,20": 4,
+      "7,21": 4,
+      "7,22": 4
+    },
+    "RowStyles": {
+      "0": 7,
+      "1": 7,
+      "2": 7,
+      "3": 7
+    },
+    "SheetStyle": {
+      "FontFamily": 4
+    }
+  },
+  "Spans": [
+    "1,2,2,7",
+    "10,1,44,94",
+    "7,3,1,20",
+    "5,8,1,16",
+    "5,25,1,4",
+    "5,30,1,6",
+    "1,10,2,9",
+    "1,20,2,12"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.MasterPage, ServerDesignerCommon",
+    "PageLoadedCommandList": []
+  },
+  "PrintInfo": {
+    "PaperSize": {},
+    "Margin": {}
+  }
+}//v5ZkPW6ZPG8vSk4eCoCUPQ3oUoLILm8zzmbBh1f25hzBzFCHzkg9yiCrS01y/5H1+JdCAveVOvvzMehBXZ8Hv9jqD6dS4QUWhYeb1s/IPhV89NyADRIZSLUK48VJwD7bYOO0ESXmz3G2d/pcJDtBYsCyNnjD2K7wO1cdn/oFRsdLopkhN9toCzO33INx0Ex62Z4J5IFZWrv3F1k1Z8KQqGFVkaZgA137k62/C/A89gYwEvVGW5cLFkvCgvP0YSXrOT3KePJTYnq8C3TgBO6dSbHh1YSMbYi8ac1T/VGeUHF0XfEaAiKPl826MEOIY/vlW2Fxnn0Efsrs60Zne1dVph0rKtF+SXiFPcvUEWpY+NcaTxDqw/GfvoJqlHJQ9wKjzdtNY87KiAfXNTJgLJx9iFaWBxZP3baYpQGW3+4O4WJUPk+X0n2nk2LLURkYdwFStJrc/53qpwNOoyPqaZHwEqG6ZvAEzN8mxGkjYrI6Nts78uYAIXYtsBZvsi30mx9yum8Xm8xWCaFDvAty91R20/vogjCe+P4sX/0M3Yf3JLaFjDINO8uZksaFhQuWkz7GdLiLk6U0+rPZPGaS+2M3cn3RYfpWNAg7NO7XF20bucpkMX8XyWkXZqTIbLRsmmHxdggpyvfCRWz+yHkFiWkSKD+lp8YpNFAZdQ+8PXXaVve3qahpb43hVftW6s73fxcx6PWLRvY7cKBJ2xwzanSEWjTXgst3BtCrgD05zEKBFQDO5ZbbNTEuhGsZ3OxYQKNcAeXzVT6NldcqKpOEZ6tU2qLemIjvYZEHDfmqNjT7c8nejH0nBBW8xdbTU/l2lCV9L7JiqG0JLzI2i5T+f9yVOUzSU3nyI4Xh3LPLidC/781OnIPWpxq9m/wPB3Ex1UAv3c7x2VYcY02z8e9524jRUA==|920
